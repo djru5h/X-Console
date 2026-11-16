@@ -1,0 +1,29 @@
+# X-Console: option controls on Q-Links, written by make_layout.py for the Theme Editor. key, name, pages, options, built-in events per option, in force
+phase	Phase Invert	PREAMP	2	0	0
+pre_on	Preamp On/Off	PREAMP	2	0	0
+pre_type	Preamp Type	PREAMP	3	6	6
+lc_slope	Low Cut Slope	PREAMP	4	6	6
+hc_slope	High Cut Slope	PREAMP	4	6	6
+flt_on	Filters On/Off	PREAMP	2	0	0
+flt_sc	Filters To S/C	PREAMP	2	0	0
+gate_mode	Gate/Exp Mode	SHAPE	2	0	0
+gate_fast	Gate Fast Attack	SHAPE	2	0	0
+sh_on	Shape On/Off	SHAPE	2	0	0
+eq_style	EQ Curve Style	EQ	2	0	0
+eq_lf_type	LF Band Type	EQ	3	0	0
+eq_hf_type	HF Band Type	EQ	3	0	0
+eq_on	Equalizer On/Off	EQ	2	0	0
+cmp_fast	Comp Fast Attack	COMP	2	0	0
+cmp_det	Comp Detector	COMP	2	0	0
+cmp_on	Compressor On	COMP	2	0	0
+drv_on	Drive On/Off	OUTPUT	2	0	0
+drv_pos	Drive Position	OUTPUT	2	0	0
+order	Section Order	OUTPUT	6	6	6
+bypass	Console Bypass	OUTPUT	2	0	0
+strip_sel	Channel Strip	SETUP	10	6	6
+in_unit	Preamp Section	SETUP	1	6	6
+sh_unit	Shape Section	SETUP	2	6	6
+eq_unit	Equalizer Section	SETUP	2	6	6
+cmp_unit	Compressor Section	SETUP	2	6	6
+nz_on	Noise On/Off	PREAMP	2	0	0
+nz_color	Noise Color Type	PREAMP	7	6	6

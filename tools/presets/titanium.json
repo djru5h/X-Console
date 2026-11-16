@@ -1,0 +1,158 @@
+{
+ "about": "X-Console: Titanium (TITANIUM), no shape/gate section; LF fixed at 120 Hz, HF at 4 kHz; drive starts on at 3.0 presets for MPC's preset field (first draft by Claude, 2026-11-14: the same 8 as Hexx, fitted to this strip's own knob steps and ranges; for the user to tune by ear). Values are knob text; resolve_presets.py turns them into positions. Controls not named keep the plugin's starting value.",
+ "presets": [
+  {
+   "name": "Init",
+   "values": {}
+  },
+  {
+   "name": "Vocal",
+   "values": {
+    "pre_on": "On",
+    "pre_type": "TUBE",
+    "pre_color": "25%",
+    "lc_freq": "100 Hz",
+    "lc_slope": "18",
+    "eq_on": "On",
+    "eq_lmf_gain": "-2.5 dB",
+    "eq_lmf_freq": "250 Hz",
+    "eq_lmf_q": "1.06",
+    "eq_hmf_gain": "+2.5 dB",
+    "eq_hmf_freq": "3 kHz",
+    "eq_hf_gain": "+3 dB",
+    "cmp_on": "On",
+    "cmp_thr": "-24 dB",
+    "cmp_ratio": "4:1",
+    "cmp_att": "5.3 ms",
+    "cmp_rel": "154 ms",
+    "cmp_knee": "6 dB",
+    "cmp_makeup": "+4 dB",
+    "cmp_sc_hpf": "100 Hz",
+    "drv_amt": "2.0"
+   }
+  },
+  {
+   "name": "Kick",
+   "values": {
+    "lc_freq": "30 Hz",
+    "lc_slope": "24",
+    "eq_on": "On",
+    "eq_lf_gain": "+5 dB",
+    "eq_lmf_gain": "-4 dB",
+    "eq_lmf_freq": "400 Hz",
+    "eq_hmf_gain": "+3.5 dB",
+    "eq_hmf_freq": "3 kHz",
+    "cmp_on": "On",
+    "cmp_thr": "-24 dB",
+    "cmp_ratio": "4:1",
+    "cmp_att": "9.5 ms",
+    "cmp_rel": "106 ms",
+    "cmp_makeup": "+3 dB",
+    "drv_amt": "4.0"
+   }
+  },
+  {
+   "name": "Snare",
+   "values": {
+    "lc_freq": "85 Hz",
+    "lc_slope": "18",
+    "eq_on": "On",
+    "eq_lf_gain": "+2.5 dB",
+    "eq_lmf_gain": "-2.5 dB",
+    "eq_lmf_freq": "700 Hz",
+    "eq_hmf_gain": "+3.5 dB",
+    "eq_hmf_freq": "5 kHz",
+    "eq_hf_gain": "+2.5 dB",
+    "cmp_on": "On",
+    "cmp_thr": "-24 dB",
+    "cmp_ratio": "8:1",
+    "cmp_att": "2.9 ms",
+    "cmp_rel": "154 ms",
+    "cmp_makeup": "+4 dB",
+    "drv_amt": "3.5"
+   }
+  },
+  {
+   "name": "Drum Bus",
+   "values": {
+    "eq_on": "On",
+    "eq_lf_gain": "+2.5 dB",
+    "eq_hf_gain": "+2.5 dB",
+    "cmp_on": "On",
+    "cmp_thr": "-22 dB",
+    "cmp_ratio": "4:1",
+    "cmp_att": "9.5 ms",
+    "cmp_rel": "224 ms",
+    "cmp_knee": "6 dB",
+    "cmp_makeup": "+3 dB",
+    "cmp_mix": "70%",
+    "cmp_sc_hpf": "85 Hz",
+    "drv_amt": "4.0"
+   }
+  },
+  {
+   "name": "Bass",
+   "values": {
+    "pre_on": "On",
+    "pre_type": "IRON",
+    "pre_color": "30%",
+    "lc_freq": "30 Hz",
+    "lc_slope": "24",
+    "eq_on": "On",
+    "eq_lf_gain": "+2.5 dB",
+    "eq_lmf_gain": "-2.5 dB",
+    "eq_lmf_freq": "250 Hz",
+    "eq_hmf_gain": "+2.5 dB",
+    "eq_hmf_freq": "800 Hz",
+    "cmp_on": "On",
+    "cmp_thr": "-26 dB",
+    "cmp_ratio": "4:1",
+    "cmp_att": "5.3 ms",
+    "cmp_rel": "154 ms",
+    "cmp_makeup": "+5 dB",
+    "drv_amt": "5.0"
+   }
+  },
+  {
+   "name": "Acoustic Guitar",
+   "values": {
+    "lc_freq": "85 Hz",
+    "lc_slope": "18",
+    "eq_on": "On",
+    "eq_lmf_gain": "-3.5 dB",
+    "eq_lmf_freq": "250 Hz",
+    "eq_lmf_q": "1.06",
+    "eq_hmf_gain": "+2.5 dB",
+    "eq_hmf_freq": "5 kHz",
+    "eq_hf_gain": "+2 dB",
+    "cmp_on": "On",
+    "cmp_thr": "-26 dB",
+    "cmp_ratio": "2:1",
+    "cmp_att": "7 ms",
+    "cmp_rel": "224 ms",
+    "cmp_knee": "5 dB",
+    "cmp_makeup": "+3 dB",
+    "drv_amt": "1.5"
+   }
+  },
+  {
+   "name": "Mix Bus",
+   "values": {
+    "order": "EQ>CMP>SHP",
+    "eq_on": "On",
+    "eq_lf_gain": "+1.2 dB",
+    "eq_hf_gain": "+1 dB",
+    "cmp_on": "On",
+    "cmp_thr": "-20 dB",
+    "cmp_ratio": "2:1",
+    "cmp_att": "17 ms",
+    "cmp_rel": "473 ms",
+    "cmp_knee": "12 dB",
+    "cmp_makeup": "+1 dB",
+    "cmp_sc_hpf": "100 Hz",
+    "drv_amt": "2.0",
+    "out_width": "110%"
+   }
+  }
+ ]
+}

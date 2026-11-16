@@ -1,0 +1,24 @@
+art file="art/cp_metal_bg_preamp__ub.png" x=0 y=86 w=1280 h=628
+meter cx=48 cy=372 w=16 h=346 key=m_in_l strip=art/cp_metal_led_bar_preamp.png frames=31
+meter cx=48 cy=372 w=16 h=346 key=m_pk_in_l strip=art/cp_metal_led_pk_preamp.png frames=31
+meter cx=76 cy=372 w=16 h=346 key=m_in_r strip=art/cp_metal_led_bar_preamp.png frames=31
+meter cx=76 cy=372 w=16 h=346 key=m_pk_in_r strip=art/cp_metal_led_pk_preamp.png frames=31
+meter cx=1204 cy=372 w=16 h=346 key=m_out_l strip=art/cp_metal_led_bar_preamp.png frames=31
+meter cx=1204 cy=372 w=16 h=346 key=m_pk_out_l strip=art/cp_metal_led_pk_preamp.png frames=31
+meter cx=1232 cy=372 w=16 h=346 key=m_out_r strip=art/cp_metal_led_bar_preamp.png frames=31
+meter cx=1232 cy=372 w=16 h=346 key=m_pk_out_r strip=art/cp_metal_led_pk_preamp.png frames=31
+knob cx=62 cy=600 r=61 key=in_gain ns=0 vs=17 bw=92 vcase=none ink_dim=dbe0ea strip=art/cp_metal_knob_in_gain__u32_61_spuntop-white_uffffff__fl64.png frames=64
+knob cx=1218 cy=600 r=61 key=out_vol ns=0 vs=17 bw=92 vcase=none ink_dim=dbe0ea strip=art/cp_metal_knob_out_vol__u32_61_spuntop-red__fl64.png frames=64
+enum_h cx=331 cy=286 sw=100 sh=40 key=pre_type label="" options="TAPE,TUBE,IRON" seg_tx=ffffff img=art/cp_metal_seg_100x40_off.png img_on=art/cp_metal_seg_100x40_on.png
+knob cx=331 cy=416 r=81 key=pre_color ns=0 vs=17 bw=150 vcase=none ink_dim=dbe0ea strip=art/cp_metal_knob_pre_color__u50_81_spuntop-black_u379bff__fl64.png frames=64
+toggle cx=230 cy=591 key=phase ns=0 w=56 h=56 img=art/cp_metal_led_off.png img_on=art/cp_metal_led_on.png
+toggle cx=430 cy=591 key=pre_on ns=0 w=56 h=56 img=art/cp_metal_led_off.png img_on=art/cp_metal_led_on.png
+knob cx=636 cy=298 r=78 key=lc_freq ns=0 vs=17 bw=140 vcase=none ink_dim=dbe0ea strip=art/cp_metal_knob_lc_freq__u48_78_spuntop-black__fl64.png frames=64
+knob cx=826 cy=298 r=78 key=hc_freq ns=0 vs=17 bw=140 vcase=none ink_dim=dbe0ea strip=art/cp_metal_knob_hc_freq__u48_78_spuntop-grey_uffffff__fl64.png frames=64
+enum_h cx=636 cy=463 sw=40 sh=34 key=lc_slope label="" options="6,12,18,24" seg_tx=ffffff img=art/cp_metal_seg_40x34_off.png img_on=art/cp_metal_seg_40x34_on.png
+enum_h cx=826 cy=463 sw=40 sh=34 key=hc_slope label="" options="6,12,18,24" seg_tx=ffffff img=art/cp_metal_seg_40x34_off.png img_on=art/cp_metal_seg_40x34_on.png
+toggle cx=636 cy=591 key=flt_sc ns=0 w=56 h=56 img=art/cp_metal_led_off.png img_on=art/cp_metal_led_on.png
+toggle cx=826 cy=591 key=flt_on ns=0 w=56 h=56 img=art/cp_metal_led_off.png img_on=art/cp_metal_led_on.png
+popup cx=1040 cy=291 w=184 h=46 key=nz_color label="" field=none options="PINK,WHITE,BROWN,BLUE,VIOLET,GREY,CRACKLE" accent=b3b7bf opens=_v field_ink=ffffff list_ink=ffffff
+knob cx=1040 cy=426 r=78 key=nz_level ns=0 vs=17 bw=140 vcase=none ink_dim=dbe0ea strip=art/cp_metal_knob_nz_level__u48_78_spuntop-black_uff46a3__fl64.png frames=64
+toggle cx=1040 cy=591 key=nz_on ns=0 w=56 h=56 img=art/cp_metal_led_off.png img_on=art/cp_metal_led_on.png

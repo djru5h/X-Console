@@ -1,0 +1,12 @@
+art file="art/cp_svmetal_bg_info__ub.png" x=0 y=86 w=1280 h=628
+#infotext cy=248 step=40
+meter cx=48 cy=372 w=16 h=346 key=m_in_l strip=art/cp_svmetal_led_bar_info.png frames=31
+meter cx=48 cy=372 w=16 h=346 key=m_pk_in_l strip=art/cp_svmetal_led_pk_info.png frames=31
+meter cx=76 cy=372 w=16 h=346 key=m_in_r strip=art/cp_svmetal_led_bar_info.png frames=31
+meter cx=76 cy=372 w=16 h=346 key=m_pk_in_r strip=art/cp_svmetal_led_pk_info.png frames=31
+meter cx=1204 cy=372 w=16 h=346 key=m_out_l strip=art/cp_svmetal_led_bar_info.png frames=31
+meter cx=1204 cy=372 w=16 h=346 key=m_pk_out_l strip=art/cp_svmetal_led_pk_info.png frames=31
+meter cx=1232 cy=372 w=16 h=346 key=m_out_r strip=art/cp_svmetal_led_bar_info.png frames=31
+meter cx=1232 cy=372 w=16 h=346 key=m_pk_out_r strip=art/cp_svmetal_led_pk_info.png frames=31
+knob cx=62 cy=603 r=61 key=in_gain ns=0 vs=17 bw=96 vcase=none ink_dim=f0f0f2 strip=art/cp_svmetal_knob_in_gain__u28_61_suede-ear-grey__fl64.png frames=64
+knob cx=1218 cy=603 r=61 key=out_vol ns=0 vs=17 bw=96 vcase=none ink_dim=f0f0f2 strip=art/cp_svmetal_knob_out_vol__u28_61_suede-ear-red__fl64.png frames=64

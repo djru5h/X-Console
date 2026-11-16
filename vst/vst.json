@@ -1,0 +1,43 @@
+{
+  "name": "X-Console",
+  "vendor": "Ru5h Music",
+  "uid": "XCN1",
+  "version": 1394,
+  "so": "r5hxconsole.so",
+  "params": "params.json",
+  "layout": "layout.conf",
+  "art": "html",
+  "targets": [
+    "armv7",
+    "aarch64"
+  ],
+  "defines": {
+    "SET_NO_UPDATE": 1,
+    "HAS_DISPLAY_REV": 1,
+    "DISPLAY_REV_NO_UPDATE": 1,
+    "REPORTS_PER_BLOCK": 12,
+    "AUTOMATABLE_PARAMS": 69
+  },
+  "build": {
+    "root": "..",
+    "sources": [
+      "src/engine.c",
+      "src/xconsole.c",
+      "src/spectrum.c",
+      "src/noise.c"
+    ],
+    "cflags": [
+      "-Isrc"
+    ],
+    "libs": [
+      "-lm",
+      "-lpthread"
+    ],
+    "cflags_arm": [
+      "-mfpu=neon-vfpv4",
+      "-mtune=cortex-a17",
+      "-funsafe-math-optimizations"
+    ]
+  },
+  "effect": true
+}

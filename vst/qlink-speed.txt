@@ -1,0 +1,1 @@
+# X-Console Q-Link speeds, from the Theme Editor (ALL PRESETS > Q-LINK SPEED): key = Q-Link events per option (0 = MPC's own, fast). Only values away from built-in.

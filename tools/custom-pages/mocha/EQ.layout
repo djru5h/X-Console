@@ -1,0 +1,467 @@
+art file="art/cp_mcmetal_bg_eq__ub.png" x=0 y=86 w=1280 h=628
+art file="art/upic_d33743b6e6fit5704330.png" x=180 y=196 w=704 h=330
+meter cx=188 cy=278 w=16 h=165 key=spc_00 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=188 cy=443 w=16 h=165 key=spc_00 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=188 cy=278 w=16 h=165 key=spc_00 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=188 cy=443 w=16 h=165 key=spc_00 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=204 cy=278 w=16 h=165 key=spc_01 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=204 cy=443 w=16 h=165 key=spc_01 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=204 cy=278 w=16 h=165 key=spc_01 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=204 cy=443 w=16 h=165 key=spc_01 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=220 cy=278 w=16 h=165 key=spc_02 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=220 cy=443 w=16 h=165 key=spc_02 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=220 cy=278 w=16 h=165 key=spc_02 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=220 cy=443 w=16 h=165 key=spc_02 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=236 cy=278 w=16 h=165 key=spc_03 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=236 cy=443 w=16 h=165 key=spc_03 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=236 cy=278 w=16 h=165 key=spc_03 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=236 cy=443 w=16 h=165 key=spc_03 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=252 cy=278 w=16 h=165 key=spc_04 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=252 cy=443 w=16 h=165 key=spc_04 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=252 cy=278 w=16 h=165 key=spc_04 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=252 cy=443 w=16 h=165 key=spc_04 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=268 cy=278 w=16 h=165 key=spc_05 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=268 cy=443 w=16 h=165 key=spc_05 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=268 cy=278 w=16 h=165 key=spc_05 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=268 cy=443 w=16 h=165 key=spc_05 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=284 cy=278 w=16 h=165 key=spc_06 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=284 cy=443 w=16 h=165 key=spc_06 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=284 cy=278 w=16 h=165 key=spc_06 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=284 cy=443 w=16 h=165 key=spc_06 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=300 cy=278 w=16 h=165 key=spc_07 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=300 cy=443 w=16 h=165 key=spc_07 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=300 cy=278 w=16 h=165 key=spc_07 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=300 cy=443 w=16 h=165 key=spc_07 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=316 cy=278 w=16 h=165 key=spc_08 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=316 cy=443 w=16 h=165 key=spc_08 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=316 cy=278 w=16 h=165 key=spc_08 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=316 cy=443 w=16 h=165 key=spc_08 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=332 cy=278 w=16 h=165 key=spc_09 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=332 cy=443 w=16 h=165 key=spc_09 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=332 cy=278 w=16 h=165 key=spc_09 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=332 cy=443 w=16 h=165 key=spc_09 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=348 cy=278 w=16 h=165 key=spc_10 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=348 cy=443 w=16 h=165 key=spc_10 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=348 cy=278 w=16 h=165 key=spc_10 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=348 cy=443 w=16 h=165 key=spc_10 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=364 cy=278 w=16 h=165 key=spc_11 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=364 cy=443 w=16 h=165 key=spc_11 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=364 cy=278 w=16 h=165 key=spc_11 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=364 cy=443 w=16 h=165 key=spc_11 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=380 cy=278 w=16 h=165 key=spc_12 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=380 cy=443 w=16 h=165 key=spc_12 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=380 cy=278 w=16 h=165 key=spc_12 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=380 cy=443 w=16 h=165 key=spc_12 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=396 cy=278 w=16 h=165 key=spc_13 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=396 cy=443 w=16 h=165 key=spc_13 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=396 cy=278 w=16 h=165 key=spc_13 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=396 cy=443 w=16 h=165 key=spc_13 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=412 cy=278 w=16 h=165 key=spc_14 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=412 cy=443 w=16 h=165 key=spc_14 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=412 cy=278 w=16 h=165 key=spc_14 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=412 cy=443 w=16 h=165 key=spc_14 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=428 cy=278 w=16 h=165 key=spc_15 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=428 cy=443 w=16 h=165 key=spc_15 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=428 cy=278 w=16 h=165 key=spc_15 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=428 cy=443 w=16 h=165 key=spc_15 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=444 cy=278 w=16 h=165 key=spc_16 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=444 cy=443 w=16 h=165 key=spc_16 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=444 cy=278 w=16 h=165 key=spc_16 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=444 cy=443 w=16 h=165 key=spc_16 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=460 cy=278 w=16 h=165 key=spc_17 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=460 cy=443 w=16 h=165 key=spc_17 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=460 cy=278 w=16 h=165 key=spc_17 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=460 cy=443 w=16 h=165 key=spc_17 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=476 cy=278 w=16 h=165 key=spc_18 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=476 cy=443 w=16 h=165 key=spc_18 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=476 cy=278 w=16 h=165 key=spc_18 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=476 cy=443 w=16 h=165 key=spc_18 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=492 cy=278 w=16 h=165 key=spc_19 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=492 cy=443 w=16 h=165 key=spc_19 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=492 cy=278 w=16 h=165 key=spc_19 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=492 cy=443 w=16 h=165 key=spc_19 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=508 cy=278 w=16 h=165 key=spc_20 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=508 cy=443 w=16 h=165 key=spc_20 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=508 cy=278 w=16 h=165 key=spc_20 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=508 cy=443 w=16 h=165 key=spc_20 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=524 cy=278 w=16 h=165 key=spc_21 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=524 cy=443 w=16 h=165 key=spc_21 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=524 cy=278 w=16 h=165 key=spc_21 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=524 cy=443 w=16 h=165 key=spc_21 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=540 cy=278 w=16 h=165 key=spc_22 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=540 cy=443 w=16 h=165 key=spc_22 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=540 cy=278 w=16 h=165 key=spc_22 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=540 cy=443 w=16 h=165 key=spc_22 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=556 cy=278 w=16 h=165 key=spc_23 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=556 cy=443 w=16 h=165 key=spc_23 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=556 cy=278 w=16 h=165 key=spc_23 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=556 cy=443 w=16 h=165 key=spc_23 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=572 cy=278 w=16 h=165 key=spc_24 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=572 cy=443 w=16 h=165 key=spc_24 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=572 cy=278 w=16 h=165 key=spc_24 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=572 cy=443 w=16 h=165 key=spc_24 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=588 cy=278 w=16 h=165 key=spc_25 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=588 cy=443 w=16 h=165 key=spc_25 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=588 cy=278 w=16 h=165 key=spc_25 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=588 cy=443 w=16 h=165 key=spc_25 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=604 cy=278 w=16 h=165 key=spc_26 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=604 cy=443 w=16 h=165 key=spc_26 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=604 cy=278 w=16 h=165 key=spc_26 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=604 cy=443 w=16 h=165 key=spc_26 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=620 cy=278 w=16 h=165 key=spc_27 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=620 cy=443 w=16 h=165 key=spc_27 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=620 cy=278 w=16 h=165 key=spc_27 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=620 cy=443 w=16 h=165 key=spc_27 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=636 cy=278 w=16 h=165 key=spc_28 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=636 cy=443 w=16 h=165 key=spc_28 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=636 cy=278 w=16 h=165 key=spc_28 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=636 cy=443 w=16 h=165 key=spc_28 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=652 cy=278 w=16 h=165 key=spc_29 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=652 cy=443 w=16 h=165 key=spc_29 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=652 cy=278 w=16 h=165 key=spc_29 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=652 cy=443 w=16 h=165 key=spc_29 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=668 cy=278 w=16 h=165 key=spc_30 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=668 cy=443 w=16 h=165 key=spc_30 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=668 cy=278 w=16 h=165 key=spc_30 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=668 cy=443 w=16 h=165 key=spc_30 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=684 cy=278 w=16 h=165 key=spc_31 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=684 cy=443 w=16 h=165 key=spc_31 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=684 cy=278 w=16 h=165 key=spc_31 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=684 cy=443 w=16 h=165 key=spc_31 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=700 cy=278 w=16 h=165 key=spc_32 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=700 cy=443 w=16 h=165 key=spc_32 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=700 cy=278 w=16 h=165 key=spc_32 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=700 cy=443 w=16 h=165 key=spc_32 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=716 cy=278 w=16 h=165 key=spc_33 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=716 cy=443 w=16 h=165 key=spc_33 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=716 cy=278 w=16 h=165 key=spc_33 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=716 cy=443 w=16 h=165 key=spc_33 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=732 cy=278 w=16 h=165 key=spc_34 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=732 cy=443 w=16 h=165 key=spc_34 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=732 cy=278 w=16 h=165 key=spc_34 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=732 cy=443 w=16 h=165 key=spc_34 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=748 cy=278 w=16 h=165 key=spc_35 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=748 cy=443 w=16 h=165 key=spc_35 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=748 cy=278 w=16 h=165 key=spc_35 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=748 cy=443 w=16 h=165 key=spc_35 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=764 cy=278 w=16 h=165 key=spc_36 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=764 cy=443 w=16 h=165 key=spc_36 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=764 cy=278 w=16 h=165 key=spc_36 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=764 cy=443 w=16 h=165 key=spc_36 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=780 cy=278 w=16 h=165 key=spc_37 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=780 cy=443 w=16 h=165 key=spc_37 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=780 cy=278 w=16 h=165 key=spc_37 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=780 cy=443 w=16 h=165 key=spc_37 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=796 cy=278 w=16 h=165 key=spc_38 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=796 cy=443 w=16 h=165 key=spc_38 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=796 cy=278 w=16 h=165 key=spc_38 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=796 cy=443 w=16 h=165 key=spc_38 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=812 cy=278 w=16 h=165 key=spc_39 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=812 cy=443 w=16 h=165 key=spc_39 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=812 cy=278 w=16 h=165 key=spc_39 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=812 cy=443 w=16 h=165 key=spc_39 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=828 cy=278 w=16 h=165 key=spc_40 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=828 cy=443 w=16 h=165 key=spc_40 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=828 cy=278 w=16 h=165 key=spc_40 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=828 cy=443 w=16 h=165 key=spc_40 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=844 cy=278 w=16 h=165 key=spc_41 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=844 cy=443 w=16 h=165 key=spc_41 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=844 cy=278 w=16 h=165 key=spc_41 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=844 cy=443 w=16 h=165 key=spc_41 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=860 cy=278 w=16 h=165 key=spc_42 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=860 cy=443 w=16 h=165 key=spc_42 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=860 cy=278 w=16 h=165 key=spc_42 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=860 cy=443 w=16 h=165 key=spc_42 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=876 cy=278 w=16 h=165 key=spc_43 strip=art/sp_join_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=876 cy=443 w=16 h=165 key=spc_43 strip=art/sp_join_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:0
+meter cx=876 cy=278 w=16 h=165 key=spc_43 strip=art/sp_bars_mocha_t0.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=876 cy=443 w=16 h=165 key=spc_43 strip=art/sp_bars_mocha_t1.png frames=259 maxstrip=56000 when=sp_view:1
+meter cx=188 cy=361 w=16 h=330 key=spk_00 strip=art/sp_pk_mocha.png frames=37
+meter cx=204 cy=361 w=16 h=330 key=spk_01 strip=art/sp_pk_mocha.png frames=37
+meter cx=220 cy=361 w=16 h=330 key=spk_02 strip=art/sp_pk_mocha.png frames=37
+meter cx=236 cy=361 w=16 h=330 key=spk_03 strip=art/sp_pk_mocha.png frames=37
+meter cx=252 cy=361 w=16 h=330 key=spk_04 strip=art/sp_pk_mocha.png frames=37
+meter cx=268 cy=361 w=16 h=330 key=spk_05 strip=art/sp_pk_mocha.png frames=37
+meter cx=284 cy=361 w=16 h=330 key=spk_06 strip=art/sp_pk_mocha.png frames=37
+meter cx=300 cy=361 w=16 h=330 key=spk_07 strip=art/sp_pk_mocha.png frames=37
+meter cx=316 cy=361 w=16 h=330 key=spk_08 strip=art/sp_pk_mocha.png frames=37
+meter cx=332 cy=361 w=16 h=330 key=spk_09 strip=art/sp_pk_mocha.png frames=37
+meter cx=348 cy=361 w=16 h=330 key=spk_10 strip=art/sp_pk_mocha.png frames=37
+meter cx=364 cy=361 w=16 h=330 key=spk_11 strip=art/sp_pk_mocha.png frames=37
+meter cx=380 cy=361 w=16 h=330 key=spk_12 strip=art/sp_pk_mocha.png frames=37
+meter cx=396 cy=361 w=16 h=330 key=spk_13 strip=art/sp_pk_mocha.png frames=37
+meter cx=412 cy=361 w=16 h=330 key=spk_14 strip=art/sp_pk_mocha.png frames=37
+meter cx=428 cy=361 w=16 h=330 key=spk_15 strip=art/sp_pk_mocha.png frames=37
+meter cx=444 cy=361 w=16 h=330 key=spk_16 strip=art/sp_pk_mocha.png frames=37
+meter cx=460 cy=361 w=16 h=330 key=spk_17 strip=art/sp_pk_mocha.png frames=37
+meter cx=476 cy=361 w=16 h=330 key=spk_18 strip=art/sp_pk_mocha.png frames=37
+meter cx=492 cy=361 w=16 h=330 key=spk_19 strip=art/sp_pk_mocha.png frames=37
+meter cx=508 cy=361 w=16 h=330 key=spk_20 strip=art/sp_pk_mocha.png frames=37
+meter cx=524 cy=361 w=16 h=330 key=spk_21 strip=art/sp_pk_mocha.png frames=37
+meter cx=540 cy=361 w=16 h=330 key=spk_22 strip=art/sp_pk_mocha.png frames=37
+meter cx=556 cy=361 w=16 h=330 key=spk_23 strip=art/sp_pk_mocha.png frames=37
+meter cx=572 cy=361 w=16 h=330 key=spk_24 strip=art/sp_pk_mocha.png frames=37
+meter cx=588 cy=361 w=16 h=330 key=spk_25 strip=art/sp_pk_mocha.png frames=37
+meter cx=604 cy=361 w=16 h=330 key=spk_26 strip=art/sp_pk_mocha.png frames=37
+meter cx=620 cy=361 w=16 h=330 key=spk_27 strip=art/sp_pk_mocha.png frames=37
+meter cx=636 cy=361 w=16 h=330 key=spk_28 strip=art/sp_pk_mocha.png frames=37
+meter cx=652 cy=361 w=16 h=330 key=spk_29 strip=art/sp_pk_mocha.png frames=37
+meter cx=668 cy=361 w=16 h=330 key=spk_30 strip=art/sp_pk_mocha.png frames=37
+meter cx=684 cy=361 w=16 h=330 key=spk_31 strip=art/sp_pk_mocha.png frames=37
+meter cx=700 cy=361 w=16 h=330 key=spk_32 strip=art/sp_pk_mocha.png frames=37
+meter cx=716 cy=361 w=16 h=330 key=spk_33 strip=art/sp_pk_mocha.png frames=37
+meter cx=732 cy=361 w=16 h=330 key=spk_34 strip=art/sp_pk_mocha.png frames=37
+meter cx=748 cy=361 w=16 h=330 key=spk_35 strip=art/sp_pk_mocha.png frames=37
+meter cx=764 cy=361 w=16 h=330 key=spk_36 strip=art/sp_pk_mocha.png frames=37
+meter cx=780 cy=361 w=16 h=330 key=spk_37 strip=art/sp_pk_mocha.png frames=37
+meter cx=796 cy=361 w=16 h=330 key=spk_38 strip=art/sp_pk_mocha.png frames=37
+meter cx=812 cy=361 w=16 h=330 key=spk_39 strip=art/sp_pk_mocha.png frames=37
+meter cx=828 cy=361 w=16 h=330 key=spk_40 strip=art/sp_pk_mocha.png frames=37
+meter cx=844 cy=361 w=16 h=330 key=spk_41 strip=art/sp_pk_mocha.png frames=37
+meter cx=860 cy=361 w=16 h=330 key=spk_42 strip=art/sp_pk_mocha.png frames=37
+meter cx=876 cy=361 w=16 h=330 key=spk_43 strip=art/sp_pk_mocha.png frames=37
+meter cx=188 cy=229 w=16 h=66 key=eqc_00 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=188 cy=295 w=16 h=66 key=eqc_00 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=188 cy=361 w=16 h=66 key=eqc_00 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=188 cy=427 w=16 h=66 key=eqc_00 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=188 cy=493 w=16 h=66 key=eqc_00 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=204 cy=229 w=16 h=66 key=eqc_01 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=204 cy=295 w=16 h=66 key=eqc_01 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=204 cy=361 w=16 h=66 key=eqc_01 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=204 cy=427 w=16 h=66 key=eqc_01 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=204 cy=493 w=16 h=66 key=eqc_01 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=220 cy=229 w=16 h=66 key=eqc_02 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=220 cy=295 w=16 h=66 key=eqc_02 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=220 cy=361 w=16 h=66 key=eqc_02 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=220 cy=427 w=16 h=66 key=eqc_02 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=220 cy=493 w=16 h=66 key=eqc_02 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=236 cy=229 w=16 h=66 key=eqc_03 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=236 cy=295 w=16 h=66 key=eqc_03 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=236 cy=361 w=16 h=66 key=eqc_03 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=236 cy=427 w=16 h=66 key=eqc_03 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=236 cy=493 w=16 h=66 key=eqc_03 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=252 cy=229 w=16 h=66 key=eqc_04 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=252 cy=295 w=16 h=66 key=eqc_04 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=252 cy=361 w=16 h=66 key=eqc_04 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=252 cy=427 w=16 h=66 key=eqc_04 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=252 cy=493 w=16 h=66 key=eqc_04 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=268 cy=229 w=16 h=66 key=eqc_05 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=268 cy=295 w=16 h=66 key=eqc_05 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=268 cy=361 w=16 h=66 key=eqc_05 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=268 cy=427 w=16 h=66 key=eqc_05 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=268 cy=493 w=16 h=66 key=eqc_05 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=284 cy=229 w=16 h=66 key=eqc_06 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=284 cy=295 w=16 h=66 key=eqc_06 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=284 cy=361 w=16 h=66 key=eqc_06 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=284 cy=427 w=16 h=66 key=eqc_06 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=284 cy=493 w=16 h=66 key=eqc_06 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=300 cy=229 w=16 h=66 key=eqc_07 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=300 cy=295 w=16 h=66 key=eqc_07 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=300 cy=361 w=16 h=66 key=eqc_07 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=300 cy=427 w=16 h=66 key=eqc_07 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=300 cy=493 w=16 h=66 key=eqc_07 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=316 cy=229 w=16 h=66 key=eqc_08 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=316 cy=295 w=16 h=66 key=eqc_08 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=316 cy=361 w=16 h=66 key=eqc_08 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=316 cy=427 w=16 h=66 key=eqc_08 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=316 cy=493 w=16 h=66 key=eqc_08 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=332 cy=229 w=16 h=66 key=eqc_09 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=332 cy=295 w=16 h=66 key=eqc_09 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=332 cy=361 w=16 h=66 key=eqc_09 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=332 cy=427 w=16 h=66 key=eqc_09 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=332 cy=493 w=16 h=66 key=eqc_09 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=348 cy=229 w=16 h=66 key=eqc_10 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=348 cy=295 w=16 h=66 key=eqc_10 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=348 cy=361 w=16 h=66 key=eqc_10 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=348 cy=427 w=16 h=66 key=eqc_10 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=348 cy=493 w=16 h=66 key=eqc_10 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=364 cy=229 w=16 h=66 key=eqc_11 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=364 cy=295 w=16 h=66 key=eqc_11 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=364 cy=361 w=16 h=66 key=eqc_11 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=364 cy=427 w=16 h=66 key=eqc_11 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=364 cy=493 w=16 h=66 key=eqc_11 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=380 cy=229 w=16 h=66 key=eqc_12 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=380 cy=295 w=16 h=66 key=eqc_12 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=380 cy=361 w=16 h=66 key=eqc_12 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=380 cy=427 w=16 h=66 key=eqc_12 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=380 cy=493 w=16 h=66 key=eqc_12 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=396 cy=229 w=16 h=66 key=eqc_13 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=396 cy=295 w=16 h=66 key=eqc_13 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=396 cy=361 w=16 h=66 key=eqc_13 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=396 cy=427 w=16 h=66 key=eqc_13 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=396 cy=493 w=16 h=66 key=eqc_13 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=412 cy=229 w=16 h=66 key=eqc_14 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=412 cy=295 w=16 h=66 key=eqc_14 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=412 cy=361 w=16 h=66 key=eqc_14 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=412 cy=427 w=16 h=66 key=eqc_14 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=412 cy=493 w=16 h=66 key=eqc_14 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=428 cy=229 w=16 h=66 key=eqc_15 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=428 cy=295 w=16 h=66 key=eqc_15 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=428 cy=361 w=16 h=66 key=eqc_15 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=428 cy=427 w=16 h=66 key=eqc_15 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=428 cy=493 w=16 h=66 key=eqc_15 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=444 cy=229 w=16 h=66 key=eqc_16 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=444 cy=295 w=16 h=66 key=eqc_16 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=444 cy=361 w=16 h=66 key=eqc_16 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=444 cy=427 w=16 h=66 key=eqc_16 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=444 cy=493 w=16 h=66 key=eqc_16 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=460 cy=229 w=16 h=66 key=eqc_17 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=460 cy=295 w=16 h=66 key=eqc_17 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=460 cy=361 w=16 h=66 key=eqc_17 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=460 cy=427 w=16 h=66 key=eqc_17 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=460 cy=493 w=16 h=66 key=eqc_17 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=476 cy=229 w=16 h=66 key=eqc_18 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=476 cy=295 w=16 h=66 key=eqc_18 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=476 cy=361 w=16 h=66 key=eqc_18 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=476 cy=427 w=16 h=66 key=eqc_18 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=476 cy=493 w=16 h=66 key=eqc_18 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=492 cy=229 w=16 h=66 key=eqc_19 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=492 cy=295 w=16 h=66 key=eqc_19 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=492 cy=361 w=16 h=66 key=eqc_19 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=492 cy=427 w=16 h=66 key=eqc_19 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=492 cy=493 w=16 h=66 key=eqc_19 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=508 cy=229 w=16 h=66 key=eqc_20 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=508 cy=295 w=16 h=66 key=eqc_20 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=508 cy=361 w=16 h=66 key=eqc_20 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=508 cy=427 w=16 h=66 key=eqc_20 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=508 cy=493 w=16 h=66 key=eqc_20 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=524 cy=229 w=16 h=66 key=eqc_21 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=524 cy=295 w=16 h=66 key=eqc_21 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=524 cy=361 w=16 h=66 key=eqc_21 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=524 cy=427 w=16 h=66 key=eqc_21 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=524 cy=493 w=16 h=66 key=eqc_21 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=540 cy=229 w=16 h=66 key=eqc_22 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=540 cy=295 w=16 h=66 key=eqc_22 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=540 cy=361 w=16 h=66 key=eqc_22 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=540 cy=427 w=16 h=66 key=eqc_22 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=540 cy=493 w=16 h=66 key=eqc_22 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=556 cy=229 w=16 h=66 key=eqc_23 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=556 cy=295 w=16 h=66 key=eqc_23 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=556 cy=361 w=16 h=66 key=eqc_23 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=556 cy=427 w=16 h=66 key=eqc_23 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=556 cy=493 w=16 h=66 key=eqc_23 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=572 cy=229 w=16 h=66 key=eqc_24 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=572 cy=295 w=16 h=66 key=eqc_24 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=572 cy=361 w=16 h=66 key=eqc_24 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=572 cy=427 w=16 h=66 key=eqc_24 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=572 cy=493 w=16 h=66 key=eqc_24 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=588 cy=229 w=16 h=66 key=eqc_25 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=588 cy=295 w=16 h=66 key=eqc_25 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=588 cy=361 w=16 h=66 key=eqc_25 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=588 cy=427 w=16 h=66 key=eqc_25 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=588 cy=493 w=16 h=66 key=eqc_25 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=604 cy=229 w=16 h=66 key=eqc_26 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=604 cy=295 w=16 h=66 key=eqc_26 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=604 cy=361 w=16 h=66 key=eqc_26 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=604 cy=427 w=16 h=66 key=eqc_26 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=604 cy=493 w=16 h=66 key=eqc_26 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=620 cy=229 w=16 h=66 key=eqc_27 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=620 cy=295 w=16 h=66 key=eqc_27 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=620 cy=361 w=16 h=66 key=eqc_27 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=620 cy=427 w=16 h=66 key=eqc_27 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=620 cy=493 w=16 h=66 key=eqc_27 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=636 cy=229 w=16 h=66 key=eqc_28 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=636 cy=295 w=16 h=66 key=eqc_28 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=636 cy=361 w=16 h=66 key=eqc_28 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=636 cy=427 w=16 h=66 key=eqc_28 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=636 cy=493 w=16 h=66 key=eqc_28 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=652 cy=229 w=16 h=66 key=eqc_29 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=652 cy=295 w=16 h=66 key=eqc_29 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=652 cy=361 w=16 h=66 key=eqc_29 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=652 cy=427 w=16 h=66 key=eqc_29 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=652 cy=493 w=16 h=66 key=eqc_29 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=668 cy=229 w=16 h=66 key=eqc_30 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=668 cy=295 w=16 h=66 key=eqc_30 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=668 cy=361 w=16 h=66 key=eqc_30 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=668 cy=427 w=16 h=66 key=eqc_30 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=668 cy=493 w=16 h=66 key=eqc_30 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=684 cy=229 w=16 h=66 key=eqc_31 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=684 cy=295 w=16 h=66 key=eqc_31 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=684 cy=361 w=16 h=66 key=eqc_31 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=684 cy=427 w=16 h=66 key=eqc_31 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=684 cy=493 w=16 h=66 key=eqc_31 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=700 cy=229 w=16 h=66 key=eqc_32 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=700 cy=295 w=16 h=66 key=eqc_32 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=700 cy=361 w=16 h=66 key=eqc_32 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=700 cy=427 w=16 h=66 key=eqc_32 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=700 cy=493 w=16 h=66 key=eqc_32 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=716 cy=229 w=16 h=66 key=eqc_33 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=716 cy=295 w=16 h=66 key=eqc_33 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=716 cy=361 w=16 h=66 key=eqc_33 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=716 cy=427 w=16 h=66 key=eqc_33 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=716 cy=493 w=16 h=66 key=eqc_33 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=732 cy=229 w=16 h=66 key=eqc_34 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=732 cy=295 w=16 h=66 key=eqc_34 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=732 cy=361 w=16 h=66 key=eqc_34 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=732 cy=427 w=16 h=66 key=eqc_34 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=732 cy=493 w=16 h=66 key=eqc_34 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=748 cy=229 w=16 h=66 key=eqc_35 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=748 cy=295 w=16 h=66 key=eqc_35 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=748 cy=361 w=16 h=66 key=eqc_35 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=748 cy=427 w=16 h=66 key=eqc_35 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=748 cy=493 w=16 h=66 key=eqc_35 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=764 cy=229 w=16 h=66 key=eqc_36 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=764 cy=295 w=16 h=66 key=eqc_36 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=764 cy=361 w=16 h=66 key=eqc_36 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=764 cy=427 w=16 h=66 key=eqc_36 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=764 cy=493 w=16 h=66 key=eqc_36 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=780 cy=229 w=16 h=66 key=eqc_37 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=780 cy=295 w=16 h=66 key=eqc_37 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=780 cy=361 w=16 h=66 key=eqc_37 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=780 cy=427 w=16 h=66 key=eqc_37 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=780 cy=493 w=16 h=66 key=eqc_37 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=796 cy=229 w=16 h=66 key=eqc_38 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=796 cy=295 w=16 h=66 key=eqc_38 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=796 cy=361 w=16 h=66 key=eqc_38 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=796 cy=427 w=16 h=66 key=eqc_38 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=796 cy=493 w=16 h=66 key=eqc_38 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=812 cy=229 w=16 h=66 key=eqc_39 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=812 cy=295 w=16 h=66 key=eqc_39 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=812 cy=361 w=16 h=66 key=eqc_39 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=812 cy=427 w=16 h=66 key=eqc_39 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=812 cy=493 w=16 h=66 key=eqc_39 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=828 cy=229 w=16 h=66 key=eqc_40 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=828 cy=295 w=16 h=66 key=eqc_40 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=828 cy=361 w=16 h=66 key=eqc_40 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=828 cy=427 w=16 h=66 key=eqc_40 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=828 cy=493 w=16 h=66 key=eqc_40 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=844 cy=229 w=16 h=66 key=eqc_41 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=844 cy=295 w=16 h=66 key=eqc_41 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=844 cy=361 w=16 h=66 key=eqc_41 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=844 cy=427 w=16 h=66 key=eqc_41 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=844 cy=493 w=16 h=66 key=eqc_41 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=860 cy=229 w=16 h=66 key=eqc_42 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=860 cy=295 w=16 h=66 key=eqc_42 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=860 cy=361 w=16 h=66 key=eqc_42 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=860 cy=427 w=16 h=66 key=eqc_42 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=860 cy=493 w=16 h=66 key=eqc_42 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=876 cy=229 w=16 h=66 key=eqc_43 strip=art/eq_join_white_t0.png frames=629 maxstrip=56000
+meter cx=876 cy=295 w=16 h=66 key=eqc_43 strip=art/eq_join_white_t1.png frames=629 maxstrip=56000
+meter cx=876 cy=361 w=16 h=66 key=eqc_43 strip=art/eq_join_white_t2.png frames=629 maxstrip=56000
+meter cx=876 cy=427 w=16 h=66 key=eqc_43 strip=art/eq_join_white_t3.png frames=629 maxstrip=56000
+meter cx=876 cy=493 w=16 h=66 key=eqc_43 strip=art/eq_join_white_t4.png frames=629 maxstrip=56000
+meter cx=48 cy=372 w=16 h=346 key=m_in_l strip=art/cp_mcmetal_led_bar_eq.png frames=31
+meter cx=48 cy=372 w=16 h=346 key=m_pk_in_l strip=art/cp_mcmetal_led_pk_eq.png frames=31
+meter cx=76 cy=372 w=16 h=346 key=m_in_r strip=art/cp_mcmetal_led_bar_eq.png frames=31
+meter cx=76 cy=372 w=16 h=346 key=m_pk_in_r strip=art/cp_mcmetal_led_pk_eq.png frames=31
+meter cx=1204 cy=372 w=16 h=346 key=m_out_l strip=art/cp_mcmetal_led_bar_eq.png frames=31
+meter cx=1204 cy=372 w=16 h=346 key=m_pk_out_l strip=art/cp_mcmetal_led_pk_eq.png frames=31
+meter cx=1232 cy=372 w=16 h=346 key=m_out_r strip=art/cp_mcmetal_led_bar_eq.png frames=31
+meter cx=1232 cy=372 w=16 h=346 key=m_pk_out_r strip=art/cp_mcmetal_led_pk_eq.png frames=31
+knob cx=62 cy=603 r=61 key=in_gain ns=0 vs=17 bw=96 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_in_gain.png
+knob cx=1218 cy=603 r=61 key=out_vol ns=0 vs=17 bw=96 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_out_vol.png
+enum_h cx=1019 cy=261 sw=100 sh=38 key=sp_view label="" options="FFT,BARS" seg_tx=000000 img=art/cp_mcmetal_seg_100x38_off.png img_on=art/cp_mcmetal_seg_100x38_on.png
+enum_h cx=1019 cy=359 sw=42 sh=36 key=pk_hold label="" options="OFF,1s,3s,6s,∞" seg_tx=000000 img=art/cp_mcmetal_seg_42x36_off.png img_on=art/cp_mcmetal_seg_42x36_on.png
+toggle cx=1086 cy=458 key=eq_on ns=0 w=56 h=56 img=art/cp_mcmetal_led_off.png img_on=art/cp_mcmetal_led_on.png
+knob cx=174 cy=620 r=49 key=eq_lf_gain ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_lf_gain.png
+knob cx=254 cy=620 r=49 key=eq_lf_freq ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_lf_freq__u20_49_chrome.png
+enum_v cx=330 cy=634 sw=64 sh=26 key=eq_lf_type label="" options="SHELF,BELL,CUT" seg_tx=000000 img=art/cp_mcmetal_seg_64x26_off.png img_on=art/cp_mcmetal_seg_64x26_on.png
+knob cx=430 cy=620 r=49 key=eq_lmf_gain ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_lmf_gain.png
+knob cx=510 cy=620 r=49 key=eq_lmf_freq ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_lmf_freq__u20_49_chrome.png
+knob cx=590 cy=620 r=49 key=eq_lmf_q ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_lmf_q__u20_49_black.png
+knob cx=686 cy=620 r=49 key=eq_hmf_gain ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_hmf_gain.png
+knob cx=766 cy=620 r=49 key=eq_hmf_freq ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_hmf_freq__u20_49_chrome.png
+knob cx=846 cy=620 r=49 key=eq_hmf_q ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_hmf_q__u20_49_black.png
+knob cx=942 cy=620 r=49 key=eq_hf_gain ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_hf_gain.png
+knob cx=1022 cy=620 r=49 key=eq_hf_freq ns=0 vs=15 bw=68 vcase=none ink_dim=fae2b4 img=art/cp_mcmetal_knob_eq_hf_freq__u20_49_chrome.png
+enum_v cx=1098 cy=634 sw=64 sh=26 key=eq_hf_type label="" options="SHELF,BELL,CUT" seg_tx=000000 img=art/cp_mcmetal_seg_64x26_off.png img_on=art/cp_mcmetal_seg_64x26_on.png

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="62" viewBox="0 0 1280 62">
+  <!-- X-Console's banner, SANDSTONE (gold rule; 0.10.0) (make_layout.py banner(): the name and the page's preset are layout text). The user's #TOWN logo
+       (art/logo_town.png) sits at the left. -->
+  <defs>
+    <linearGradient id="rule" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#d4a537"/>
+      <stop offset="0.6" stop-color="#d4a537" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#d4a537" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1279" height="61" rx="0" fill="#2a292e" stroke="#4a494f"/>
+  <rect x="10" y="57" width="1260" height="2" fill="url(#rule)"/>
+</svg>

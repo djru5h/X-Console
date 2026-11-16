@@ -1,0 +1,19 @@
+art file="art/cp_hxmetal_bg_output__ub__dd.png" x=0 y=86 w=1280 h=628
+meter cx=48 cy=372 w=16 h=346 key=m_in_l strip=art/cp_hxmetal_led_bar_output.png frames=31
+meter cx=48 cy=372 w=16 h=346 key=m_pk_in_l strip=art/cp_hxmetal_led_pk_output.png frames=31
+meter cx=76 cy=372 w=16 h=346 key=m_in_r strip=art/cp_hxmetal_led_bar_output.png frames=31
+meter cx=76 cy=372 w=16 h=346 key=m_pk_in_r strip=art/cp_hxmetal_led_pk_output.png frames=31
+meter cx=1204 cy=372 w=16 h=346 key=m_out_l strip=art/cp_hxmetal_led_bar_output.png frames=31
+meter cx=1204 cy=372 w=16 h=346 key=m_pk_out_l strip=art/cp_hxmetal_led_pk_output.png frames=31
+meter cx=1232 cy=372 w=16 h=346 key=m_out_r strip=art/cp_hxmetal_led_bar_output.png frames=31
+meter cx=1232 cy=372 w=16 h=346 key=m_pk_out_r strip=art/cp_hxmetal_led_pk_output.png frames=31
+knob cx=62 cy=603 r=61 key=in_gain ns=0 vs=17 bw=96 vcase=none ink_dim=9fd0ff strip=art/cp_hxmetal_knob_in_gain__u28_61_hexx-black-white__fl64.png frames=64
+knob cx=1218 cy=603 r=61 key=out_vol ns=0 vs=17 bw=96 vcase=none ink_dim=9fd0ff strip=art/cp_hxmetal_knob_out_vol__u28_61_hexx-black-red__fl64.png frames=64
+knob cx=331 cy=291 r=78 key=drv_amt ns=0 vs=17 bw=150 vcase=none ink_dim=9fd0ff strip=art/cp_hxmetal_knob_drv_amt__u44_78_hexx-black-blue__fl64.png frames=64
+knob cx=331 cy=470 r=71 key=drv_char ns=0 vs=17 bw=150 vcase=none ink_dim=9fd0ff strip=art/cp_hxmetal_knob_drv_char__u38_71_hexx-black-blue_ud89785__fl64.png frames=64
+enum_h cx=231 cy=656 sw=80 sh=38 key=drv_pos label="" options="POST,PRE" seg_tx=ffffff img=art/cp_hxmetal_seg_80x38_off.png img_on=art/cp_hxmetal_seg_80x38_on.png
+toggle cx=431 cy=636 key=drv_on ns=0 w=56 h=56 img=art/cp_hxmetal_led_off.png img_on=art/cp_hxmetal_led_on.png
+knob cx=690 cy=291 r=73 key=out_pan ns=0 vs=17 bw=140 vcase=none ink_dim=9fd0ff strip=art/cp_hxmetal_knob_out_pan__u40_73_hexx-black-sky__fl64.png frames=64
+knob cx=690 cy=481 r=73 key=out_width ns=0 vs=17 bw=140 vcase=none ink_dim=9fd0ff strip=art/cp_hxmetal_knob_out_width__u40_73_hexx-black-grey_ub0b0b3__fl64.png frames=64
+popup cx=1000 cy=285 w=260 h=46 key=order label="" field=none options="SHP>EQ>CMP,SHP>CMP>EQ,EQ>SHP>CMP,EQ>CMP>SHP,CMP>SHP>EQ,CMP>EQ>SHP" accent=2a52be opens=_v field_ink=ffffff list_ink=ffffff
+toggle cx=1000 cy=621 key=bypass ns=0 w=56 h=56 img=art/cp_hxmetal_led_off.png img_on=art/cp_hxmetal_led_on.png

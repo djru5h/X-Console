@@ -1,0 +1,79 @@
+{
+ "about": "X-Console: Hexx presets for MPC's preset field (first draft by Claude, 2026-11-13, for the user to tune by ear). Values are knob text; resolve_presets.py turns them into positions. Controls not named keep the plugin's starting value. Hexx EQ steps: LF 30/40/50/100/200/300/400 Hz, LMF 75/150/180/240/500/700/1k, HMF 800/1.5k/3k/5k/8k/10k/12.5k, HF 2.5k/5k/7k/10k/12.5k/15k/20k.",
+ "presets": [
+  {"name": "Init", "values": {}},
+
+  {"name": "Vocal", "values": {
+    "pre_on": "On", "pre_type": "TUBE", "pre_color": "25%",
+    "lc_freq": "100 Hz", "lc_slope": "18",
+    "eq_on": "On",
+    "eq_lmf_gain": "-2.4 dB", "eq_lmf_freq": "240 Hz", "eq_lmf_q": "1.15x",
+    "eq_hmf_gain": "+2.4 dB", "eq_hmf_freq": "3 kHz",
+    "eq_hf_gain": "+3.6 dB", "eq_hf_freq": "12.5 kHz", "eq_hf_type": "SHELF",
+    "cmp_on": "On", "cmp_thr": "-25 dB", "cmp_ratio": "3.3:1", "cmp_att": "5.3 ms", "cmp_rel": "139 ms",
+    "cmp_knee": "6 dB", "cmp_makeup": "+4 dB", "cmp_sc_hpf": "100 Hz"}},
+
+  {"name": "Kick", "values": {
+    "lc_freq": "28 Hz", "lc_slope": "24",
+    "sh_on": "On", "sh_punch": "+30%", "sh_sustain": "-20%",
+    "eq_on": "On",
+    "eq_lf_gain": "+4.8 dB", "eq_lf_freq": "50 Hz", "eq_lf_type": "BELL",
+    "eq_lmf_gain": "-3.6 dB", "eq_lmf_freq": "500 Hz",
+    "eq_hmf_gain": "+3.6 dB", "eq_hmf_freq": "3 kHz",
+    "cmp_on": "On", "cmp_thr": "-22 dB", "cmp_ratio": "4.5:1", "cmp_att": "11 ms", "cmp_rel": "113 ms",
+    "cmp_makeup": "+3 dB",
+    "drv_on": "On", "drv_amt": "20%", "drv_char": 0.3}},
+
+  {"name": "Snare", "values": {
+    "lc_freq": "85 Hz", "lc_slope": "18",
+    "sh_on": "On", "sh_punch": "+40%", "sh_sustain": "+10%",
+    "gate_thr": "-34 dB", "gate_range": "20 dB", "gate_hold": "42 ms", "gate_rel": "145 ms",
+    "eq_on": "On",
+    "eq_lf_gain": "+2.4 dB", "eq_lf_freq": "200 Hz", "eq_lf_type": "BELL",
+    "eq_lmf_gain": "-2.4 dB", "eq_lmf_freq": "700 Hz",
+    "eq_hmf_gain": "+3.6 dB", "eq_hmf_freq": "5 kHz",
+    "eq_hf_gain": "+2.4 dB", "eq_hf_freq": "12.5 kHz", "eq_hf_type": "SHELF",
+    "cmp_on": "On", "cmp_thr": "-22 dB", "cmp_ratio": "4.5:1", "cmp_att": "3.8 ms", "cmp_rel": "139 ms",
+    "cmp_makeup": "+4 dB",
+    "drv_on": "On", "drv_amt": "15%"}},
+
+  {"name": "Drum Bus", "values": {
+    "sh_on": "On", "sh_punch": "+20%",
+    "eq_on": "On",
+    "eq_lf_gain": "+2.4 dB", "eq_lf_freq": "100 Hz", "eq_lf_type": "SHELF",
+    "eq_hf_gain": "+2.4 dB", "eq_hf_freq": "12.5 kHz", "eq_hf_type": "SHELF",
+    "cmp_on": "On", "cmp_thr": "-20 dB", "cmp_ratio": "2.9:1", "cmp_att": "11 ms", "cmp_rel": "257 ms",
+    "cmp_knee": "6 dB", "cmp_makeup": "+3 dB", "cmp_mix": "70%", "cmp_sc_hpf": "85 Hz",
+    "drv_on": "On", "drv_amt": "15%"}},
+
+  {"name": "Bass", "values": {
+    "pre_on": "On", "pre_type": "IRON", "pre_color": "30%",
+    "lc_freq": "28 Hz", "lc_slope": "24",
+    "eq_on": "On",
+    "eq_lf_gain": "+2.4 dB", "eq_lf_freq": "100 Hz", "eq_lf_type": "BELL",
+    "eq_lmf_gain": "-2.4 dB", "eq_lmf_freq": "240 Hz",
+    "eq_hmf_gain": "+2.4 dB", "eq_hmf_freq": "800 Hz",
+    "cmp_on": "On", "cmp_thr": "-25 dB", "cmp_ratio": "4.5:1", "cmp_att": "5.3 ms", "cmp_rel": "171 ms",
+    "cmp_makeup": "+5 dB",
+    "drv_on": "On", "drv_amt": "25%", "drv_char": 0.3}},
+
+  {"name": "Acoustic Guitar", "values": {
+    "lc_freq": "85 Hz", "lc_slope": "18",
+    "eq_on": "On",
+    "eq_lmf_gain": "-3.6 dB", "eq_lmf_freq": "240 Hz", "eq_lmf_q": "1.15x",
+    "eq_hmf_gain": "+2.4 dB", "eq_hmf_freq": "5 kHz",
+    "eq_hf_gain": "+2.4 dB", "eq_hf_freq": "12.5 kHz", "eq_hf_type": "SHELF",
+    "cmp_on": "On", "cmp_thr": "-25 dB", "cmp_ratio": "2.5:1", "cmp_att": "7.5 ms", "cmp_rel": "210 ms",
+    "cmp_knee": "4.8 dB", "cmp_makeup": "+3 dB"}},
+
+  {"name": "Mix Bus", "values": {
+    "order": "EQ>CMP>SHP",
+    "eq_on": "On",
+    "eq_lf_gain": "+1.2 dB", "eq_lf_freq": "50 Hz", "eq_lf_type": "SHELF",
+    "eq_hf_gain": "+1.2 dB", "eq_hf_freq": "15 kHz", "eq_hf_type": "SHELF",
+    "cmp_on": "On", "cmp_thr": "-16 dB", "cmp_ratio": "2.1:1", "cmp_att": "21 ms", "cmp_rel": "387 ms",
+    "cmp_knee": "12 dB", "cmp_makeup": "+1 dB", "cmp_sc_hpf": "100 Hz",
+    "drv_on": "On", "drv_amt": "10%",
+    "out_width": "110%"}}
+ ]
+}

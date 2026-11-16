@@ -1,0 +1,14 @@
+build/
+harness/build/
+harness/out/
+__pycache__/
+*.pyc
+*.bak*
+vst/art/*.png
+vst/layout*.conf
+vst/params.json
+vst/preview-names.json
+vst/gen2*/params-steps.json
+vst/gen2*/layout.conf
+tools/custom-pages/*/art/
+gen2/

@@ -1,0 +1,24 @@
+art file="art/cp_htmetal_bg_preamp__ub__dd.png" x=0 y=86 w=1280 h=628
+meter cx=48 cy=379 w=16 h=346 key=m_in_l strip=art/cp_htmetal_led_bar_preamp.png frames=31
+meter cx=48 cy=379 w=16 h=346 key=m_pk_in_l strip=art/cp_htmetal_led_pk_preamp.png frames=31
+meter cx=76 cy=379 w=16 h=346 key=m_in_r strip=art/cp_htmetal_led_bar_preamp.png frames=31
+meter cx=76 cy=379 w=16 h=346 key=m_pk_in_r strip=art/cp_htmetal_led_pk_preamp.png frames=31
+meter cx=1204 cy=379 w=16 h=346 key=m_out_l strip=art/cp_htmetal_led_bar_preamp.png frames=31
+meter cx=1204 cy=379 w=16 h=346 key=m_pk_out_l strip=art/cp_htmetal_led_pk_preamp.png frames=31
+meter cx=1232 cy=379 w=16 h=346 key=m_out_r strip=art/cp_htmetal_led_bar_preamp.png frames=31
+meter cx=1232 cy=379 w=16 h=346 key=m_pk_out_r strip=art/cp_htmetal_led_pk_preamp.png frames=31
+knob cx=62 cy=603 r=61 key=in_gain ns=0 vs=17 bw=96 vcase=none ink_dim=ffd6d0 strip=art/cp_htmetal_knob_in_gain__fl64.png frames=64
+knob cx=1218 cy=603 r=61 key=out_vol ns=0 vs=17 bw=96 vcase=none ink_dim=ffd6d0 strip=art/cp_htmetal_knob_out_vol__fl64.png frames=64
+enum_h cx=331 cy=282 sw=104 sh=40 key=pre_type label="" options="TAPE,TUBE,IRON" seg_tx=ffffff img=art/cp_htmetal_seg_104x40_off.png img_on=art/cp_htmetal_seg_104x40_on.png
+knob cx=331 cy=404 r=78 key=pre_color ns=0 vs=17 bw=180 vcase=none ink_dim=ffd6d0 strip=art/cp_htmetal_knob_pre_color__u44_78_pink__fl64.png frames=64
+toggle cx=230 cy=591 key=phase ns=0 w=56 h=56 img=art/cp_htmetal_led_off.png img_on=art/cp_htmetal_led_on.png
+toggle cx=430 cy=591 key=pre_on ns=0 w=56 h=56 img=art/cp_htmetal_led_off.png img_on=art/cp_htmetal_led_on.png
+knob cx=636 cy=286 r=78 key=lc_freq ns=0 vs=17 bw=150 vcase=none ink_dim=ffd6d0 strip=art/cp_htmetal_knob_lc_freq__u44_78_black__fl64.png frames=64
+knob cx=826 cy=286 r=78 key=hc_freq ns=0 vs=17 bw=150 vcase=none ink_dim=ffd6d0 strip=art/cp_htmetal_knob_hc_freq__fl64.png frames=64
+enum_h cx=636 cy=463 sw=40 sh=34 key=lc_slope label="" options="6,12,18,24" seg_tx=ffffff img=art/cp_htmetal_seg_40x34_off.png img_on=art/cp_htmetal_seg_40x34_on.png
+enum_h cx=826 cy=463 sw=40 sh=34 key=hc_slope label="" options="6,12,18,24" seg_tx=ffffff img=art/cp_htmetal_seg_40x34_off.png img_on=art/cp_htmetal_seg_40x34_on.png
+toggle cx=636 cy=591 key=flt_sc ns=0 w=56 h=56 img=art/cp_htmetal_led_off.png img_on=art/cp_htmetal_led_on.png
+toggle cx=826 cy=591 key=flt_on ns=0 w=56 h=56 img=art/cp_htmetal_led_off.png img_on=art/cp_htmetal_led_on.png
+popup cx=1040 cy=283 w=184 h=46 key=nz_color label="" field=none options="PINK,WHITE,BROWN,BLUE,VIOLET,GREY,CRACKLE" accent=ff3329 opens=_v field_ink=ffffff list_ink=ffffff
+knob cx=1040 cy=426 r=78 key=nz_level ns=0 vs=17 bw=150 vcase=none ink_dim=ffd6d0 strip=art/cp_htmetal_knob_nz_level__u44_78_silver__fl64.png frames=64
+toggle cx=1040 cy=591 key=nz_on ns=0 w=56 h=56 img=art/cp_htmetal_led_off.png img_on=art/cp_htmetal_led_on.png

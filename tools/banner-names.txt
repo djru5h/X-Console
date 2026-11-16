@@ -1,0 +1,10 @@
+# X-Console Theme Editor: each single-preset plugin's own names. tag<TAB>banner name (empty = default)<TAB>SETUP page name (empty = the banner name). tools/plugins.sh reads it
+flannel	FLANNEL
+granite	GRANITE
+suede	SUEDE
+sandstone	SANDSTONE
+hexx	HEXX
+molten	MOLTEN
+spades	SPADES
+mocha	MOCHA
+titanium	TITANIUM

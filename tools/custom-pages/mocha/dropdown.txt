@@ -1,0 +1,7 @@
+# X-Console Theme Editor: the colours metal_pages.py draws its drop-downs in. Written by the build (metal_dropdown.py).
+DRAWN	PREAMP	DROP-DOWN	#c8862a
+DRAWN	PREAMP	DROP-DOWN TEXT	#ffffff
+DRAWN	PREAMP	DROP-DOWN LIST TEXT	#ffffff
+DRAWN	OUTPUT	DROP-DOWN	#c8862a
+DRAWN	OUTPUT	DROP-DOWN TEXT	#ffffff
+DRAWN	OUTPUT	DROP-DOWN LIST TEXT	#ffffff

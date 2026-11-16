@@ -1,0 +1,11 @@
+# X-Console Theme Editor: each single-preset plugin's INFO-page text, shown under the name. tag<TAB>text, newlines written as \n (empty = none). tools/plugins.sh reads it
+flannel	[h=000000][s=2.4][c=ffffff][b]Modeled after the SSL XL9000 K-Series Console[/b][/c][/s][/h]
+granite	[h=000000][s=2.4][c=ffffff]Modeled after the SSL 4000 E-Series Console[/c][/s][/h]
+suede	[h=ff0000][s=2.4][c=ffffff][b]Modeled after Neve Class A Consoles[/b][/c][/s][/h]
+hearts	[h=ff0000][s=2.4][c=ffffff][b]Modeled after the Weiss Gambit Series[/b][/c][/s][/h]\n[*][s=1.8][c=000000]Weiss EQ1-MK2 Reference Mastering Equalizer[/c][/s]\n[*][s=1.8][c=000000]Weiss DS1-MK3 Compressor/ Limiter[/c][/s]
+sandstone	[h=000000][s=2.4][c=ffffff][b]Modeled after the Summit Audio Grand [/b][/c][/s][/h][h=000000][s=2.4][c=cacaca][b]Channel Channel Strip[/b][/c][/s][/h]\n[*][s=1.8][c=000000] Summit Audio EQF-100 Full Range Equalizer [/c][/s]\n[*][s=1.8][c=000000]Summit Audio TLA-100A Tube Leveling Amplifier[/c][/s]
+hexx	[h=0000ff][s=2.4][c=ffffff][b]Modeled after HEXX Mixing Consoles[/b][/c][/s][/h]
+molten	[h=ff0000][s=2.4][c=ffffff][b]Modeled after Chandler Limited Consoles[/b][/c][/s][/h]
+spades	[h=ff0000][s=2.4][c=ffffff][b]Modeled after the Avalon VT-737sp Channel Strip[/b][/c][/s][/h]
+mocha	[h=c89c72][s=2.4][c=ffffff][b]Modeled after the UAD LA-6176 Channel Strip[/b][/c][/s][/h]
+titanium	[h=0000ff][s=2.4][c=ffffff][b]Modeled after the Empirical Labs Trak Pak Channel Strip[/b][/c][/s][/h]

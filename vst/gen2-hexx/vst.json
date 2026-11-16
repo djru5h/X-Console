@@ -1,0 +1,45 @@
+{
+  "name": "X-Console_Hexx",
+  "vendor": "Ru5h Music",
+  "uid": "XCAP",
+  "version": 1372,
+  "so": "r5hxchexx.so",
+  "params": "params-steps.json",
+  "layout": "../layout-gen2-hexx.conf",
+  "art": "html",
+  "targets": [
+    "aarch64"
+  ],
+  "defines": {
+    "SET_NO_UPDATE": 1,
+    "HAS_DISPLAY_REV": 1,
+    "DISPLAY_REV_NO_UPDATE": 1,
+    "REPORTS_PER_BLOCK": 12,
+    "AUTOMATABLE_PARAMS": 69
+  },
+  "build": {
+    "root": "../..",
+    "sources": [
+      "src/engine.c",
+      "src/xconsole.c",
+      "src/spectrum.c",
+      "src/noise.c"
+    ],
+    "cflags": [
+      "-Isrc",
+      "-DXC_ONLY_MODEL=5"
+    ],
+    "libs": [
+      "-lm",
+      "-lpthread"
+    ],
+    "cflags_arm": [
+      "-mfpu=neon-vfpv4",
+      "-mtune=cortex-a17",
+      "-funsafe-math-optimizations"
+    ]
+  },
+  "effect": true,
+  "presets": "presets.json",
+  "display_name": "X-Console: Hexx"
+}

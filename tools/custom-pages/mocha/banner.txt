@@ -1,0 +1,7 @@
+# X-Console Theme Editor: the colours metal_pages.py draws the banner text in. Written by the build (metal_banner.py).
+DRAWN	PREAMP	BANNER OUTLINE	#ffffff
+DRAWN	SHAPE	BANNER OUTLINE	#ffffff
+DRAWN	EQ	BANNER OUTLINE	#ffffff
+DRAWN	COMP	BANNER OUTLINE	#ffffff
+DRAWN	OUTPUT	BANNER OUTLINE	#ffffff
+DRAWN	SETUP	BANNER OUTLINE	#ffffff

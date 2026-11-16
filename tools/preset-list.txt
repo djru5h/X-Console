@@ -1,0 +1,13 @@
+# X-Console Theme Editor: the PRESET / PLUGIN list, top to bottom (under ALL PRESETS). -NAME = hidden. Names are the colours file's.
+FLANNEL
+GRANITE
+HEARTS
+HEXX
+-TITANIUM EQ
+-TITANIUM DRIVE
+MOCHA
+MOLTEN
+SANDSTONE
+SPADES
+SUEDE
+TITANIUM

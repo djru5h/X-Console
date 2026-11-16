@@ -1,0 +1,200 @@
+# Knobs on this plugin's metal pages, for the X-Console Theme Editor (written by metal_pages.py). Tab separated.
+# KIND chicken|metal; STYLE name body pointer preview [shape]; KNOB page key label style r value-radius
+KIND	metal
+STYLE	gold	#c1a171	#14100c	styles/gold.png
+STYLE	black	#2d2d2d	#f6f4f0	styles/black.png
+STYLE	wine	#893043	#f6f4f0	styles/wine.png
+STYLE	chrome	#d7dbe3	#141418	styles/chrome.png
+STYLE	titanium	#979dac	#121216	styles/titanium.png
+STYLE	gunmetal	#555963	#f6f6f8	styles/gunmetal.png
+STYLE	champagne	#dfcdab	#121216	styles/champagne.png
+STYLE	brass	#c7a655	#281e0e	styles/brass.png
+STYLE	rosegold	#d89785	#121216	styles/rosegold.png
+STYLE	orange	#e47528	#f6f6f8	styles/orange.png
+STYLE	yellow	#e9c52c	#1e1808	styles/yellow.png
+STYLE	burgundy	#871a2d	#f6f6f8	styles/burgundy.png
+STYLE	purple	#814abe	#f6f6f8	styles/purple.png
+STYLE	cobalt	#2853c2	#f6f6f8	styles/cobalt.png
+STYLE	ice	#9dcef0	#121216	styles/ice.png
+STYLE	teal	#1e989a	#f6f6f8	styles/teal.png
+STYLE	emerald	#1e9953	#f6f6f8	styles/emerald.png
+STYLE	pointer	#d2ccbe	#ad9257	styles/pointer.png	shape
+STYLE	pointer-black	#535354	#ad9257	styles/pointer-black.png	shape
+STYLE	pointer-white	#d7d7d7	#ad9257	styles/pointer-white.png	shape
+STYLE	pointer-grey	#939497	#ad9257	styles/pointer-grey.png	shape
+STYLE	pointer-silver	#c6c7c9	#ad9257	styles/pointer-silver.png	shape
+STYLE	pointer-red	#cc6560	#ad9257	styles/pointer-red.png	shape
+STYLE	pointer-blue	#5671b5	#ad9257	styles/pointer-blue.png	shape
+STYLE	pointer-green	#519973	#ad9257	styles/pointer-green.png	shape
+STYLE	pointer-yellow	#d7c458	#ad9257	styles/pointer-yellow.png	shape
+STYLE	pointer-orange	#d59358	#ad9257	styles/pointer-orange.png	shape
+STYLE	pointer-purple	#9370b6	#ad9257	styles/pointer-purple.png	shape
+STYLE	pointer-pink	#d07eab	#ad9257	styles/pointer-pink.png	shape
+STYLE	pointer-teal	#4fa6a6	#ad9257	styles/pointer-teal.png	shape
+STYLE	pointer-sky	#85b6d4	#ad9257	styles/pointer-sky.png	shape
+STYLE	pointer-burgundy	#9e5360	#ad9257	styles/pointer-burgundy.png	shape
+STYLE	pointer-gold	#ccb570	#ad9257	styles/pointer-gold.png	shape
+STYLE	hexcap	#484849	#f9f9f8	styles/hexcap.png	shape
+STYLE	hexx-silver-blue	#193898	#193899	styles/hexx-silver-blue.png	shape
+STYLE	hexx-black-blue	#193897	#1b3ba0	styles/hexx-black-blue.png	shape
+STYLE	hexx-silver-green	#146c3a	#146c3a	styles/hexx-silver-green.png	shape
+STYLE	hexx-black-green	#146b39	#15713d	styles/hexx-black-green.png	shape
+STYLE	hexx-silver-grey	#3f3f41	#3f3f41	styles/hexx-silver-grey.png	shape
+STYLE	hexx-black-grey	#3e3e40	#424244	styles/hexx-black-grey.png	shape
+STYLE	hexx-silver-red	#bf2a24	#c32a24	styles/hexx-silver-red.png	shape
+STYLE	hexx-black-red	#c12a24	#cb2d27	styles/hexx-black-red.png	shape
+STYLE	hexx-silver-yellow	#d2b01b	#d8b21b	styles/hexx-silver-yellow.png	shape
+STYLE	hexx-black-yellow	#d4b11b	#e0bb1d	styles/hexx-black-yellow.png	shape
+STYLE	hexx-silver-white	#d6d6d4	#d9d9d7	styles/hexx-silver-white.png	shape
+STYLE	hexx-black-white	#d8d8d6	#dededc	styles/hexx-black-white.png	shape
+STYLE	hexx-silver-orange	#ce631b	#d4631b	styles/hexx-silver-orange.png	shape
+STYLE	hexx-black-orange	#d1621b	#dc681d	styles/hexx-black-orange.png	shape
+STYLE	hexx-silver-purple	#633799	#63369b	styles/hexx-silver-purple.png	shape
+STYLE	hexx-black-purple	#623699	#683aa2	styles/hexx-black-purple.png	shape
+STYLE	hexx-silver-pink	#c64888	#ca4888	styles/hexx-silver-pink.png	shape
+STYLE	hexx-black-pink	#c84787	#d34c8f	styles/hexx-black-pink.png	shape
+STYLE	hexx-silver-teal	#127e7e	#128080	styles/hexx-silver-teal.png	shape
+STYLE	hexx-black-teal	#127d7d	#138585	styles/hexx-black-teal.png	shape
+STYLE	hexx-silver-sky	#5199cc	#519bd2	styles/hexx-silver-sky.png	shape
+STYLE	hexx-black-sky	#5099cf	#55a2da	styles/hexx-black-sky.png	shape
+STYLE	hexx-silver-black	#161617	#151517	styles/hexx-silver-black.png	shape
+STYLE	hexx-black-black	#161618	#171719	styles/hexx-black-black.png	shape
+STYLE	hexx-silver-cream	#cbc1a7	#cec3a8	styles/hexx-silver-cream.png	shape
+STYLE	hexx-black-cream	#cdc2a7	#d3c8ac	styles/hexx-black-cream.png	shape
+STYLE	hexx-silver-burgundy	#731624	#741524	styles/hexx-silver-burgundy.png	shape
+STYLE	hexx-black-burgundy	#721624	#791727	styles/hexx-black-burgundy.png	shape
+STYLE	blacktop-blue	#2f50a3	#2f50a3	styles/blacktop-blue.png	shape
+STYLE	blacktop-green	#298152	#298152	styles/blacktop-green.png	shape
+STYLE	blacktop-silver	#b6b8ba	#b6b8ba	styles/blacktop-silver.png	shape
+STYLE	blacktop-red	#be413b	#be413b	styles/blacktop-red.png	shape
+STYLE	blacktop-yellow	#caaa31	#caaa31	styles/blacktop-yellow.png	shape
+STYLE	blacktop-orange	#c87931	#c87931	styles/blacktop-orange.png	shape
+STYLE	blacktop-purple	#794fa4	#794fa4	styles/blacktop-purple.png	shape
+STYLE	blacktop-pink	#c36197	#c36197	styles/blacktop-pink.png	shape
+STYLE	blacktop-teal	#279090	#279090	styles/blacktop-teal.png	shape
+STYLE	blacktop-sky	#69a4c7	#69a4c7	styles/blacktop-sky.png	shape
+STYLE	blacktop-white	#cbcbca	#cbcbca	styles/blacktop-white.png	shape
+STYLE	blacktop-cream	#c5bead	#c5bead	styles/blacktop-cream.png	shape
+STYLE	blacktop-burgundy	#872b3b	#872b3b	styles/blacktop-burgundy.png	shape
+STYLE	blacktop-gold	#bda34f	#bda34f	styles/blacktop-gold.png	shape
+STYLE	blacktop-lime	#90b63b	#90b63b	styles/blacktop-lime.png	shape
+STYLE	blacktop-grey	#797b7e	#797b7e	styles/blacktop-grey.png	shape
+STYLE	greytop-orange	#c8793b	#c8793b	styles/greytop-orange.png	shape
+STYLE	greytop-red	#be413b	#be413b	styles/greytop-red.png	shape
+STYLE	greytop-yellow	#cab431	#cab431	styles/greytop-yellow.png	shape
+STYLE	greytop-blue	#3b79b6	#3b79b6	styles/greytop-blue.png	shape
+STYLE	greytop-pink	#be4f97	#be4f97	styles/greytop-pink.png	shape
+STYLE	greytop-green	#3b9d61	#3b9d61	styles/greytop-green.png	shape
+STYLE	greytop-purple	#794fa4	#794fa4	styles/greytop-purple.png	shape
+STYLE	greytop-teal	#279090	#279090	styles/greytop-teal.png	shape
+STYLE	greytop-sky	#69a4c7	#69a4c7	styles/greytop-sky.png	shape
+STYLE	greytop-white	#cbcbca	#cbcbca	styles/greytop-white.png	shape
+STYLE	greytop-black	#2b2b2d	#2b2b2d	styles/greytop-black.png	shape
+STYLE	greytop-cream	#c5bead	#c5bead	styles/greytop-cream.png	shape
+STYLE	greytop-burgundy	#872b3b	#872b3b	styles/greytop-burgundy.png	shape
+STYLE	greytop-silver	#b6b8ba	#b6b8ba	styles/greytop-silver.png	shape
+STYLE	greytop-gold	#bda34f	#bda34f	styles/greytop-gold.png	shape
+STYLE	greytop-lime	#90b63b	#90b63b	styles/greytop-lime.png	shape
+STYLE	spuntop-black	#b9bbbe	#151515	styles/spuntop-black.png	shape
+STYLE	spuntop-red	#b9bbbe	#151515	styles/spuntop-red.png	shape
+STYLE	spuntop-blue	#b9bbbe	#151515	styles/spuntop-blue.png	shape
+STYLE	spuntop-white	#b9bbbe	#151515	styles/spuntop-white.png	shape
+STYLE	spuntop-green	#b9bbbe	#151515	styles/spuntop-green.png	shape
+STYLE	spuntop-yellow	#b9bbbe	#151515	styles/spuntop-yellow.png	shape
+STYLE	spuntop-orange	#b9bbbe	#151515	styles/spuntop-orange.png	shape
+STYLE	spuntop-purple	#b9bbbe	#151515	styles/spuntop-purple.png	shape
+STYLE	spuntop-pink	#b9bbbe	#151515	styles/spuntop-pink.png	shape
+STYLE	spuntop-teal	#b9bbbe	#151515	styles/spuntop-teal.png	shape
+STYLE	spuntop-sky	#b9bbbe	#151515	styles/spuntop-sky.png	shape
+STYLE	spuntop-grey	#b9bbbe	#151515	styles/spuntop-grey.png	shape
+STYLE	spuntop-cream	#b9bbbe	#151515	styles/spuntop-cream.png	shape
+STYLE	spuntop-burgundy	#b9bbbe	#151515	styles/spuntop-burgundy.png	shape
+STYLE	spuntop-gold	#b9bbbe	#151515	styles/spuntop-gold.png	shape
+STYLE	spuntop-lime	#b9bbbe	#151515	styles/spuntop-lime.png	shape
+STYLE	suede-ear-blue	#1e3981	#223e8b	styles/suede-ear-blue.png	shape
+STYLE	suede-ear-red	#8f181e	#9d1b20	styles/suede-ear-red.png	shape
+STYLE	suede-ear-grey	#64666a	#6f7072	styles/suede-ear-grey.png	shape
+STYLE	suede-ear-green	#146d3b	#18783f	styles/suede-ear-green.png	shape
+STYLE	suede-ear-yellow	#d7b41c	#edc41e	styles/suede-ear-yellow.png	shape
+STYLE	suede-ear-white	#d9d9d8	#e8e7e3	styles/suede-ear-white.png	shape
+STYLE	suede-ear-orange	#d4641c	#e96e1e	styles/suede-ear-orange.png	shape
+STYLE	suede-ear-purple	#64389c	#6f3daa	styles/suede-ear-purple.png	shape
+STYLE	suede-ear-pink	#cb498a	#df5095	styles/suede-ear-pink.png	shape
+STYLE	suede-ear-teal	#138181	#168d8b	styles/suede-ear-teal.png	shape
+STYLE	suede-ear-sky	#529cd2	#5babe4	styles/suede-ear-sky.png	shape
+STYLE	suede-ear-black	#161618	#1a191a	styles/suede-ear-black.png	shape
+STYLE	suede-ear-cream	#cec3a9	#dccfb2	styles/suede-ear-cream.png	shape
+STYLE	suede-ear-burgundy	#751625	#821928	styles/suede-ear-burgundy.png	shape
+STYLE	suede-knurl-grey	#818692	#7a818e	styles/suede-knurl-grey.png	shape
+STYLE	suede-knurl-blue	#1e3981	#1c377d	styles/suede-knurl-blue.png	shape
+STYLE	suede-knurl-red	#90181e	#8c171c	styles/suede-knurl-red.png	shape
+STYLE	suede-knurl-green	#146e3b	#136b39	styles/suede-knurl-green.png	shape
+STYLE	suede-knurl-yellow	#d8b41c	#d3b11a	styles/suede-knurl-yellow.png	shape
+STYLE	suede-knurl-white	#dadad8	#d7d7d5	styles/suede-knurl-white.png	shape
+STYLE	suede-knurl-orange	#d5651c	#d0621a	styles/suede-knurl-orange.png	shape
+STYLE	suede-knurl-purple	#65389d	#623599	styles/suede-knurl-purple.png	shape
+STYLE	suede-knurl-pink	#cc498b	#c74787	styles/suede-knurl-pink.png	shape
+STYLE	suede-knurl-teal	#128181	#117d7d	styles/suede-knurl-teal.png	shape
+STYLE	suede-knurl-sky	#529cd3	#4f99ce	styles/suede-knurl-sky.png	shape
+STYLE	suede-knurl-black	#161618	#151517	styles/suede-knurl-black.png	shape
+STYLE	suede-knurl-cream	#cfc4a9	#ccc1a7	styles/suede-knurl-cream.png	shape
+STYLE	suede-knurl-burgundy	#761625	#721523	styles/suede-knurl-burgundy.png	shape
+STYLE	suede-fluted-grey	#818692	#717684	styles/suede-fluted-grey.png	shape
+STYLE	suede-fluted-blue	#1f3b85	#143079	styles/suede-fluted-blue.png	shape
+STYLE	suede-fluted-red	#94191f	#870f16	styles/suede-fluted-red.png	shape
+STYLE	suede-fluted-green	#15703d	#0b6434	styles/suede-fluted-green.png	shape
+STYLE	suede-fluted-yellow	#dfba1d	#cfac15	styles/suede-fluted-yellow.png	shape
+STYLE	suede-fluted-white	#dddddb	#d1d1d1	styles/suede-fluted-white.png	shape
+STYLE	suede-fluted-orange	#db671d	#cb5b15	styles/suede-fluted-orange.png	shape
+STYLE	suede-fluted-purple	#6739a2	#5a2f96	styles/suede-fluted-purple.png	shape
+STYLE	suede-fluted-pink	#d14a8f	#c23f83	styles/suede-fluted-pink.png	shape
+STYLE	suede-fluted-teal	#138585	#097779	styles/suede-fluted-teal.png	shape
+STYLE	suede-fluted-sky	#54a2d9	#4894cb	styles/suede-fluted-sky.png	shape
+STYLE	suede-fluted-black	#171719	#0d0e11	styles/suede-fluted-black.png	shape
+STYLE	suede-fluted-cream	#d2c6ac	#c6bba3	styles/suede-fluted-cream.png	shape
+STYLE	suede-fluted-burgundy	#781726	#6b0e1d	styles/suede-fluted-burgundy.png	shape
+KNOB	PREAMP	in_gain	INPUT	gold	28	61
+KNOB	PREAMP	out_vol	OUTPUT	wine	28	61
+KNOB	PREAMP	pre_color	COLOR	wine	44	78
+KNOB	PREAMP	lc_freq	LOW CUT	black	44	78
+KNOB	PREAMP	hc_freq	HIGH CUT	gold	44	78
+KNOB	PREAMP	nz_level	LEVEL	gold	44	78
+KNOB	SHAPE	in_gain	INPUT	gold	28	61
+KNOB	SHAPE	out_vol	OUTPUT	wine	28	61
+KNOB	SHAPE	sh_punch	PUNCH	wine	48	83
+KNOB	SHAPE	sh_sustain	SUSTAIN	gold	48	83
+KNOB	SHAPE	gate_thr	THRESHOLD	black	26	55
+KNOB	SHAPE	gate_range	RANGE	black	26	55
+KNOB	SHAPE	gate_ratio	EXP RATIO	gold	26	55
+KNOB	SHAPE	gate_hold	HOLD	gold	26	55
+KNOB	SHAPE	gate_rel	RELEASE	black	26	55
+KNOB	EQ	in_gain	INPUT	gold	28	61
+KNOB	EQ	out_vol	OUTPUT	wine	28	61
+KNOB	EQ	eq_lf_gain	LF GAIN	gold	20	49
+KNOB	EQ	eq_lf_freq	LF FREQ	black	20	49
+KNOB	EQ	eq_lmf_gain	LMF GAIN	gold	20	49
+KNOB	EQ	eq_lmf_freq	LMF FREQ	black	20	49
+KNOB	EQ	eq_lmf_q	LMF Q	gold	20	49
+KNOB	EQ	eq_hmf_gain	HMF GAIN	gold	20	49
+KNOB	EQ	eq_hmf_freq	HMF FREQ	black	20	49
+KNOB	EQ	eq_hmf_q	HMF Q	gold	20	49
+KNOB	EQ	eq_hf_gain	HF GAIN	gold	20	49
+KNOB	EQ	eq_hf_freq	HF FREQ	black	20	49
+KNOB	COMP	in_gain	INPUT	gold	28	61
+KNOB	COMP	out_vol	OUTPUT	wine	28	61
+KNOB	COMP	cmp_att	ATTACK	black	36	69
+KNOB	COMP	cmp_ratio	RATIO	black	36	69
+KNOB	COMP	cmp_knee	KNEE	gold	28	61
+KNOB	COMP	cmp_rel	RELEASE	black	36	69
+KNOB	COMP	cmp_thr	COMPRESSION	gold	42	75
+KNOB	COMP	cmp_makeup	MAKE-UP	gold	28	61
+KNOB	COMP	cmp_mix	WET/DRY	gold	28	61
+KNOB	COMP	cmp_sc_hpf	S/C HPF	black	28	61
+KNOB	OUTPUT	in_gain	INPUT	gold	28	61
+KNOB	OUTPUT	out_vol	OUTPUT	wine	28	61
+KNOB	OUTPUT	drv_amt	DRIVE	wine	44	78
+KNOB	OUTPUT	drv_char	CHARACTER	gold	38	71
+KNOB	OUTPUT	out_pan	PAN	black	40	73
+KNOB	OUTPUT	out_width	WIDTH	gold	40	73
+KNOB	INFO	in_gain	INPUT	gold	28	61
+KNOB	INFO	out_vol	OUTPUT	wine	28	61

@@ -1,0 +1,9 @@
+# X-Console Theme Editor: the colours metal_pages.py draws its picked option buttons in. Written by the build (metal_segs.py).
+DRAWN	PREAMP	LIT BUTTON TEXT	#ffffff
+DRAWN	PREAMP	LIT BUTTONS	#1a4478
+DRAWN	EQ	LIT BUTTON TEXT	#ffffff
+DRAWN	EQ	LIT BUTTONS	#1a4478
+DRAWN	COMP	LIT BUTTON TEXT	#ffffff
+DRAWN	COMP	LIT BUTTONS	#1a4478
+DRAWN	OUTPUT	LIT BUTTON TEXT	#ffffff
+DRAWN	OUTPUT	LIT BUTTONS	#1a4478

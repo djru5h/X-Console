@@ -1,0 +1,230 @@
+# X-Console knob colours on the metal pages. Edit with X-Console Theme Editor.exe (or here), then build the plugin.
+# [plugin tag] blocks; ALL / key = every page with that knob; PAGE / key = one page (wins over ALL).
+# A value is one of the plugin's own cap styles (the editor lists them), a shaped cap in any colour (hexx-silver-red:#6aa8e8)
+# (a pointer cap takes #skirt/#top, either may be empty: pointer-red:/#c0c0c0), or #body/#pointer (#body alone: Molten's chicken-heads).
+# A knob that isn't listed keeps the page's own colour.
+
+[flannel]   # X-Console: Flannel
+EQ / eq_hf_freq = silver   # HF FREQ
+EQ / eq_hmf_freq = silver   # HMF FREQ
+EQ / eq_hmf_q = black   # HMF Q
+EQ / eq_lf_freq = silver   # LF FREQ
+EQ / eq_lmf_freq = silver   # LMF FREQ
+EQ / eq_lmf_q = black   # LMF Q
+COMP / cmp_knee = copper   # KNEE
+COMP / cmp_sc_hpf = black   # S/C HPF
+
+[granite]   # X-Console: Granite
+SHAPE / gate_range = pearl   # RANGE
+SHAPE / gate_rel = pearl   # RELEASE
+SHAPE / gate_thr = pearl   # THRESHOLD
+EQ / eq_hf_freq = champagne   # HF FREQ
+EQ / eq_hmf_freq = champagne   # HMF FREQ
+EQ / eq_lf_freq = champagne   # LF FREQ
+EQ / eq_lmf_freq = champagne   # LMF FREQ
+EQ / in_gain = #c4c0b8/#000000   # INPUT
+EQ / out_vol = #c52320/#ffffff   # OUTPUT
+COMP / cmp_att = bronze   # ATTACK
+COMP / cmp_knee = champagne   # KNEE
+COMP / cmp_makeup = champagne   # MAKE-UP
+COMP / cmp_ratio = bronze   # RATIO
+COMP / cmp_rel = bronze   # RELEASE
+OUTPUT / drv_char = pink   # CHARACTER
+OUTPUT / out_pan = #2399e0/#f6f6f8   # PAN
+
+[suede]   # X-Console: Suede
+ALL / in_gain = suede-ear-grey   # INPUT
+ALL / out_vol = suede-ear-red   # OUTPUT
+PREAMP / hc_freq = suede-fluted-grey   # HIGH CUT
+PREAMP / lc_freq = suede-fluted-black   # LOW CUT
+PREAMP / nz_level = suede-knurl-pink   # LEVEL
+PREAMP / pre_color = suede-knurl-sky   # COLOR
+SHAPE / gate_hold = suede-fluted-grey   # HOLD
+SHAPE / gate_range = suede-fluted-grey   # RANGE
+SHAPE / gate_ratio = suede-fluted-red   # EXP RATIO
+SHAPE / gate_rel = suede-fluted-grey   # RELEASE
+SHAPE / gate_thr = suede-fluted-grey   # THRESHOLD
+SHAPE / sh_punch = suede-knurl-red   # PUNCH
+SHAPE / sh_sustain = suede-knurl-grey   # SUSTAIN
+EQ / eq_hf_freq = suede-fluted-grey   # HF FREQ
+EQ / eq_hf_gain = suede-fluted-red   # HF GAIN
+EQ / eq_hmf_freq = suede-fluted-grey   # HMF FREQ
+EQ / eq_hmf_gain = suede-fluted-red   # HMF GAIN
+EQ / eq_hmf_q = suede-fluted-black   # HMF Q
+EQ / eq_lf_freq = suede-fluted-grey   # LF FREQ
+EQ / eq_lf_gain = suede-fluted-red   # LF GAIN
+EQ / eq_lmf_freq = suede-fluted-grey   # LMF FREQ
+EQ / eq_lmf_gain = suede-fluted-red   # LMF GAIN
+EQ / eq_lmf_q = suede-fluted-black   # LMF Q
+COMP / cmp_att = suede-fluted-grey   # ATTACK
+COMP / cmp_knee = suede-fluted-grey   # KNEE
+COMP / cmp_makeup = suede-fluted-grey   # MAKE-UP
+COMP / cmp_mix = suede-fluted-sky   # WET/DRY
+COMP / cmp_ratio = suede-knurl-grey   # RATIO
+COMP / cmp_rel = suede-knurl-grey   # RELEASE
+COMP / cmp_sc_hpf = suede-fluted-black   # S/C HPF
+COMP / cmp_thr = suede-knurl-red   # COMPRESSION
+OUTPUT / drv_amt = suede-knurl-red   # DRIVE
+OUTPUT / drv_char = suede-knurl-pink:#e6a6c6   # CHARACTER
+OUTPUT / out_pan = suede-knurl-sky   # PAN
+OUTPUT / out_width = suede-knurl-grey   # WIDTH
+
+[hearts]   # X-Console: Hearts
+PREAMP / lc_freq = black   # LOW CUT
+PREAMP / nz_level = silver   # LEVEL
+PREAMP / pre_color = pink   # COLOR
+SHAPE / gate_hold = titanium   # HOLD
+SHAPE / gate_range = silver   # RANGE
+SHAPE / gate_ratio = titanium   # EXP RATIO
+SHAPE / gate_rel = silver   # RELEASE
+SHAPE / gate_thr = silver   # THRESHOLD
+EQ / eq_hmf_q = #555963/#ff8080   # HMF Q
+EQ / eq_lmf_q = #555963/#ff8080   # LMF Q
+COMP / cmp_att = pink   # ATTACK
+COMP / cmp_ratio = pink   # RATIO
+COMP / cmp_rel = pink   # RELEASE
+OUTPUT / drv_char = pink   # CHARACTER
+OUTPUT / out_pan = ice   # PAN
+
+[sandstone]   # X-Console: Sandstone
+ALL / out_vol = #ff4646/#f6f6f8   # OUTPUT
+PREAMP / pre_color = #f48ae2/#f6f6f8   # COLOR
+SHAPE / gate_hold = chrome   # HOLD
+SHAPE / gate_range = chrome   # RANGE
+SHAPE / gate_ratio = gold   # EXP RATIO
+SHAPE / gate_rel = chrome   # RELEASE
+SHAPE / gate_thr = chrome   # THRESHOLD
+SHAPE / sh_punch = gold   # PUNCH
+SHAPE / sh_sustain = chrome   # SUSTAIN
+COMP / cmp_att = chrome   # ATTACK
+COMP / cmp_knee = chrome   # KNEE
+COMP / cmp_makeup = gold   # MAKE-UP
+COMP / cmp_mix = ice   # WET/DRY
+COMP / cmp_ratio = chrome   # RATIO
+COMP / cmp_rel = chrome   # RELEASE
+COMP / cmp_thr = gold   # COMPRESSION
+OUTPUT / drv_amt = gold   # DRIVE
+OUTPUT / drv_char = rosegold   # CHARACTER
+OUTPUT / out_pan = ice   # PAN
+OUTPUT / out_width = chrome   # WIDTH
+
+[hexx]   # X-Console: Hexx
+ALL / in_gain = hexx-black-white   # INPUT
+ALL / out_vol = hexx-black-red   # OUTPUT
+PREAMP / hc_freq = hexx-black-blue   # HIGH CUT
+PREAMP / lc_freq = hexx-black-black   # LOW CUT
+PREAMP / nz_level = hexx-black-sky   # LEVEL
+PREAMP / pre_color = hexx-black-cream:#9e8a5a   # COLOR
+SHAPE / gate_hold = hexx-black-sky:#a2c9e6   # HOLD
+SHAPE / gate_range = hexx-black-sky:#a2c9e6   # RANGE
+SHAPE / gate_ratio = hexx-black-blue   # EXP RATIO
+SHAPE / gate_rel = hexx-black-sky:#a2c9e6   # RELEASE
+SHAPE / gate_thr = hexx-black-sky:#a2c9e6   # THRESHOLD
+SHAPE / sh_punch = hexx-black-blue   # PUNCH
+SHAPE / sh_sustain = hexx-black-sky:#a2c9e6   # SUSTAIN
+EQ / eq_hf_freq = hexx-black-sky:#a2c9e6   # HF FREQ
+EQ / eq_hf_gain = hexx-black-blue   # HF GAIN
+EQ / eq_hmf_freq = hexx-black-sky:#a2c9e6   # HMF FREQ
+EQ / eq_hmf_gain = hexx-black-blue   # HMF GAIN
+EQ / eq_hmf_q = hexx-black-grey   # HMF PROP Q
+EQ / eq_lf_freq = hexx-black-sky:#a2c9e6   # LF FREQ
+EQ / eq_lf_gain = hexx-black-blue   # LF GAIN
+EQ / eq_lmf_freq = hexx-black-sky:#a2c9e6   # LMF FREQ
+EQ / eq_lmf_gain = hexx-black-blue   # LMF GAIN
+EQ / eq_lmf_q = hexx-black-grey   # LMF PROP Q
+COMP / cmp_att = hexx-black-sky   # ATTACK
+COMP / cmp_knee = hexx-silver-sky   # KNEE
+COMP / cmp_makeup = hexx-silver-sky   # MAKE-UP
+COMP / cmp_mix = hexx-black-cream   # WET/DRY
+COMP / cmp_ratio = hexx-black-sky   # RATIO
+COMP / cmp_rel = hexx-black-sky   # RELEASE
+COMP / cmp_thr = hexx-black-blue   # COMPRESSION
+OUTPUT / drv_amt = hexx-black-blue   # DRIVE
+OUTPUT / drv_char = hexx-black-blue:#d89785   # CHARACTER
+OUTPUT / out_pan = hexx-black-sky   # PAN
+OUTPUT / out_width = hexx-black-grey:#b0b0b3   # WIDTH
+
+[spades]   # X-Console: Spades
+ALL / in_gain = spuntop-white:#ffffff   # INPUT
+ALL / out_vol = spuntop-red   # OUTPUT
+PREAMP / hc_freq = spuntop-grey:#ffffff   # HIGH CUT
+PREAMP / lc_freq = spuntop-black   # LOW CUT
+PREAMP / nz_level = spuntop-black:#ff46a3   # LEVEL
+PREAMP / pre_color = spuntop-black:#379bff   # COLOR
+SHAPE / gate_hold = spuntop-grey   # HOLD
+SHAPE / gate_range = spuntop-grey   # RANGE
+SHAPE / gate_ratio = spuntop-black   # EXP RATIO
+SHAPE / gate_rel = spuntop-grey   # RELEASE
+SHAPE / gate_thr = spuntop-grey   # THRESHOLD
+SHAPE / sh_punch = spuntop-sky   # PUNCH
+SHAPE / sh_sustain = spuntop-white   # SUSTAIN
+EQ / eq_hf_freq = spuntop-grey   # HF FREQ
+EQ / eq_hf_gain = spuntop-black   # HF GAIN
+EQ / eq_hmf_freq = spuntop-grey   # HMF FREQ
+EQ / eq_hmf_gain = spuntop-black   # HMF GAIN
+EQ / eq_hmf_q = spuntop-white   # HMF Q
+EQ / eq_lf_freq = spuntop-grey   # LF FREQ
+EQ / eq_lf_gain = spuntop-black   # LF GAIN
+EQ / eq_lmf_freq = spuntop-grey   # LMF FREQ
+EQ / eq_lmf_gain = spuntop-black   # LMF GAIN
+EQ / eq_lmf_q = spuntop-white   # LMF Q
+COMP / cmp_att = spuntop-black   # ATTACK
+COMP / cmp_knee = spuntop-grey   # KNEE
+COMP / cmp_makeup = spuntop-cream   # MAKE-UP
+COMP / cmp_mix = spuntop-sky   # WET/DRY
+COMP / cmp_ratio = spuntop-black   # RATIO
+COMP / cmp_sc_hpf = spuntop-black   # S/C HPF
+COMP / cmp_thr = spuntop-grey   # COMPRESSION
+OUTPUT / drv_amt = spuntop-orange:#956502   # DRIVE
+OUTPUT / drv_char = spuntop-pink   # CHARACTER
+OUTPUT / out_pan = spuntop-sky   # PAN
+OUTPUT / out_vol = spuntop-red   # OUTPUT
+OUTPUT / out_width = spuntop-black   # WIDTH
+
+[mocha]   # X-Console: Mocha
+PREAMP / nz_level = chrome   # LEVEL
+SHAPE / gate_range = #c1a171/#000000   # RANGE
+SHAPE / gate_ratio = chrome   # EXP RATIO
+SHAPE / gate_rel = #c1a171/#000000   # RELEASE
+SHAPE / gate_thr = #c1a171/#121216   # THRESHOLD
+EQ / eq_hf_freq = chrome   # HF FREQ
+EQ / eq_hmf_freq = chrome   # HMF FREQ
+EQ / eq_hmf_q = black   # HMF Q
+EQ / eq_lf_freq = chrome   # LF FREQ
+EQ / eq_lmf_freq = chrome   # LMF FREQ
+EQ / eq_lmf_q = black   # LMF Q
+OUTPUT / out_pan = ice   # PAN
+OUTPUT / out_width = chrome   # WIDTH
+INFO / out_vol = #ff0000/#f6f4f0   # OUTPUT
+
+[titanium]   # X-Console: Titanium
+ALL / in_gain = pointer-silver:#c0c0c0/#c0c0c0   # INPUT
+ALL / out_vol = pointer-red:#ff1717/#c0c0c0   # OUTPUT
+PREAMP / hc_freq = pointer-silver:#c0c0c0/#c0c0c0   # HIGH CUT
+PREAMP / lc_freq = pointer-black:/#c0c0c0   # LOW CUT
+PREAMP / nz_level = pointer-pink:/#c0c0c0   # LEVEL
+PREAMP / pre_color = pointer-sky:/#c0c0c0   # COLOR
+SHAPE / gate_hold = pointer-silver:/#c0c0c0   # FREQUENCY
+SHAPE / gate_thr = pointer-blue:/#c0c0c0   # THRESHOLD
+EQ / eq_hf_freq = pointer-silver:#c0c0c0/#c0c0c0   # HF FREQ
+EQ / eq_hf_gain = pointer-blue:/#c0c0c0   # HF GAIN
+EQ / eq_hmf_freq = pointer-silver:#c0c0c0/#c0c0c0   # HMF FREQ
+EQ / eq_hmf_gain = pointer-blue:/#c0c0c0   # HMF GAIN
+EQ / eq_hmf_q = pointer-black:/#c0c0c0   # HMF Q
+EQ / eq_lf_freq = pointer-silver:#c0c0c0/#c0c0c0   # LF FREQ
+EQ / eq_lf_gain = pointer-blue:/#c0c0c0   # LF GAIN
+EQ / eq_lmf_freq = pointer-silver:#c0c0c0/#c0c0c0   # LMF FREQ
+EQ / eq_lmf_gain = pointer-blue:/#c0c0c0   # LMF GAIN
+EQ / eq_lmf_q = pointer-black:/#c0c0c0   # LMF Q
+COMP / cmp_att = pointer-sky:/#c0c0c0   # ATTACK
+COMP / cmp_knee = pointer-sky:/#c0c0c0   # KNEE
+COMP / cmp_makeup = pointer-gold:/#c0c0c0   # MAKE-UP
+COMP / cmp_mix = pointer-silver:/#c0c0c0   # WET/DRY
+COMP / cmp_ratio = pointer-sky:/#c0c0c0   # RATIO
+COMP / cmp_rel = pointer-sky:/#c0c0c0   # RELEASE
+COMP / cmp_sc_hpf = pointer-black:/#c0c0c0   # S/C HPF
+COMP / cmp_thr = pointer-blue:/#c0c0c0   # COMPRESSION
+OUTPUT / drv_amt = pointer-gold:/#c0c0c0   # DRIVE
+OUTPUT / drv_char = pointer-pink:/#c0c0c0   # CHARACTER
+OUTPUT / out_pan = pointer-sky:/#c0c0c0   # PAN
+OUTPUT / out_width = pointer-silver:/#c0c0c0   # WIDTH

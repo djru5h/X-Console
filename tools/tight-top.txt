@@ -1,0 +1,2 @@
+# X-Console Theme Editor: plugins whose sections go up to the banner (no gap under it), one tag per line. tools/plugins.sh reads it
+hexx
